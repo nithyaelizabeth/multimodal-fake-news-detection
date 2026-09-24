@@ -15,6 +15,8 @@ __pycache__/
 
 # Temporary working files
 tmp/
+deliverables/
+output/
 
 # Large or locally generated research artifacts
 data/
