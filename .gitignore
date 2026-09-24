@@ -1,0 +1,31 @@
+# macOS
+.DS_Store
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Secrets and local configuration
+.env
+.env.*
+*.key
+
+# Temporary working files
+tmp/
+
+# Large or locally generated research artifacts
+data/
+models/
+checkpoints/
+*.pt
+*.pth
+*.bin
+*.npz
+
+# Logs and caches
+logs/
+cache/
+*.zip

@@ -1,0 +1,2329 @@
+row_id,model,transformation,true_label,original_prediction,transformed_prediction,prediction_changed,original_caption,transformed_caption
+3101,CLIP + MLP,blur,0,0,0,False,,
+3101,ViLT,blur,0,0,0,False,,
+3101,BLIP Caption + BERT,blur,0,0,0,False,a group of people walking through a flooded room,a group of people walking through a flooded room
+3101,CLIP + MLP,grayscale,0,0,0,False,,
+3101,ViLT,grayscale,0,0,0,False,,
+3101,BLIP Caption + BERT,grayscale,0,0,0,False,a group of people walking through a flooded room,a group of people standing in a room
+3101,CLIP + MLP,darken,0,0,0,False,,
+3101,ViLT,darken,0,0,0,False,,
+3101,BLIP Caption + BERT,darken,0,0,0,False,a group of people walking through a flooded room,the crew of the movie
+3101,CLIP + MLP,crop,0,0,0,False,,
+3101,ViLT,crop,0,0,0,False,,
+3101,BLIP Caption + BERT,crop,0,0,0,False,a group of people walking through a flooded room,"the warriors of the lost, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person"
+29690,CLIP + MLP,blur,0,0,0,False,,
+29690,ViLT,blur,0,0,0,False,,
+29690,BLIP Caption + BERT,blur,0,1,0,True,a bear is jumping over a hill,a bear is standing on top of a hill
+29690,CLIP + MLP,grayscale,0,0,0,False,,
+29690,ViLT,grayscale,0,0,0,False,,
+29690,BLIP Caption + BERT,grayscale,0,1,1,False,a bear is jumping over a hill,a black and white photo of a vineyard
+29690,CLIP + MLP,darken,0,0,0,False,,
+29690,ViLT,darken,0,0,0,False,,
+29690,BLIP Caption + BERT,darken,0,1,1,False,a bear is jumping over a hill,a bear is jumping over a hill
+29690,CLIP + MLP,crop,0,0,0,False,,
+29690,ViLT,crop,0,0,0,False,,
+29690,BLIP Caption + BERT,crop,0,1,1,False,a bear is jumping over a hill,a house in the middle of a field
+92734,CLIP + MLP,blur,0,0,0,False,,
+92734,ViLT,blur,0,0,0,False,,
+92734,BLIP Caption + BERT,blur,0,0,0,False,a bunch of kittens sitting on top of a scratching tower,three cats are sitting on a cat tree
+92734,CLIP + MLP,grayscale,0,0,0,False,,
+92734,ViLT,grayscale,0,0,0,False,,
+92734,BLIP Caption + BERT,grayscale,0,0,0,False,a bunch of kittens sitting on top of a scratching tower,a bunch of cats sitting on top of a cat tower
+92734,CLIP + MLP,darken,0,0,0,False,,
+92734,ViLT,darken,0,0,0,False,,
+92734,BLIP Caption + BERT,darken,0,0,0,False,a bunch of kittens sitting on top of a scratching tower,a bunch of kittens sitting on top of a scratching tower
+92734,CLIP + MLP,crop,0,0,0,False,,
+92734,ViLT,crop,0,0,0,False,,
+92734,BLIP Caption + BERT,crop,0,0,0,False,a bunch of kittens sitting on top of a scratching tower,three kittens are sitting in a basket
+74652,CLIP + MLP,blur,1,0,0,False,,
+74652,ViLT,blur,1,1,0,True,,
+74652,BLIP Caption + BERT,blur,1,0,0,False,a sign that says whole food is on the wall,a blurry image of a store with a sign
+74652,CLIP + MLP,grayscale,1,0,0,False,,
+74652,ViLT,grayscale,1,1,0,True,,
+74652,BLIP Caption + BERT,grayscale,1,0,1,True,a sign that says whole food is on the wall,a store with a sign that says whole food
+74652,CLIP + MLP,darken,1,0,0,False,,
+74652,ViLT,darken,1,1,1,False,,
+74652,BLIP Caption + BERT,darken,1,0,1,True,a sign that says whole food is on the wall,a store with a sign that says whole food
+74652,CLIP + MLP,crop,1,0,0,False,,
+74652,ViLT,crop,1,1,1,False,,
+74652,BLIP Caption + BERT,crop,1,0,1,True,a sign that says whole food is on the wall,a store with a sign that says whole foods
+27195,CLIP + MLP,blur,1,0,0,False,,
+27195,ViLT,blur,1,1,1,False,,
+27195,BLIP Caption + BERT,blur,1,0,0,False,a man is surfing in the water with other people,a man in a yellow shirt is surfing
+27195,CLIP + MLP,grayscale,1,0,0,False,,
+27195,ViLT,grayscale,1,1,1,False,,
+27195,BLIP Caption + BERT,grayscale,1,0,0,False,a man is surfing in the water with other people,a group of people swimming in the ocean
+27195,CLIP + MLP,darken,1,0,0,False,,
+27195,ViLT,darken,1,1,1,False,,
+27195,BLIP Caption + BERT,darken,1,0,0,False,a man is surfing in the water with other people,a man is surfing in the water
+27195,CLIP + MLP,crop,1,0,0,False,,
+27195,ViLT,crop,1,1,1,False,,
+27195,BLIP Caption + BERT,crop,1,0,0,False,a man is surfing in the water with other people,a man is surfing in the water
+80706,CLIP + MLP,blur,1,0,0,False,,
+80706,ViLT,blur,1,0,0,False,,
+80706,BLIP Caption + BERT,blur,1,0,1,True,a man in a suit and tie sitting at a table,a man in a purple shirt
+80706,CLIP + MLP,grayscale,1,0,0,False,,
+80706,ViLT,grayscale,1,0,0,False,,
+80706,BLIP Caption + BERT,grayscale,1,0,0,False,a man in a suit and tie sitting at a table,a man sitting at a table with a laptop
+80706,CLIP + MLP,darken,1,0,0,False,,
+80706,ViLT,darken,1,0,0,False,,
+80706,BLIP Caption + BERT,darken,1,0,1,True,a man in a suit and tie sitting at a table,a man in a purple shirt
+80706,CLIP + MLP,crop,1,0,0,False,,
+80706,ViLT,crop,1,0,0,False,,
+80706,BLIP Caption + BERT,crop,1,0,0,False,a man in a suit and tie sitting at a table,a man in a suit and tie sitting at a table
+35239,CLIP + MLP,blur,0,0,0,False,,
+35239,ViLT,blur,0,0,0,False,,
+35239,BLIP Caption + BERT,blur,0,0,0,False,the interior of a car with the steering and dashboard,the interior of a car with a steering
+35239,CLIP + MLP,grayscale,0,0,0,False,,
+35239,ViLT,grayscale,0,0,0,False,,
+35239,BLIP Caption + BERT,grayscale,0,0,0,False,the interior of a car with the steering and dashboard,the interior of a car with the steering and dash
+35239,CLIP + MLP,darken,0,0,0,False,,
+35239,ViLT,darken,0,0,0,False,,
+35239,BLIP Caption + BERT,darken,0,0,0,False,the interior of a car with the steering and dashboard,the interior of a car
+35239,CLIP + MLP,crop,0,0,0,False,,
+35239,ViLT,crop,0,0,0,False,,
+35239,BLIP Caption + BERT,crop,0,0,0,False,the interior of a car with the steering and dashboard,the interior of a car with a steering and dashboard
+80905,CLIP + MLP,blur,1,0,0,False,,
+80905,ViLT,blur,1,1,0,True,,
+80905,BLIP Caption + BERT,blur,1,0,0,False,three men in mugs,two men are seen in this mug shot
+80905,CLIP + MLP,grayscale,1,0,0,False,,
+80905,ViLT,grayscale,1,1,0,True,,
+80905,BLIP Caption + BERT,grayscale,1,0,0,False,three men in mugs,a man with a mustache and a striped shirt
+80905,CLIP + MLP,darken,1,0,0,False,,
+80905,ViLT,darken,1,1,1,False,,
+80905,BLIP Caption + BERT,darken,1,0,0,False,three men in mugs,two men in mugs
+80905,CLIP + MLP,crop,1,0,0,False,,
+80905,ViLT,crop,1,1,1,False,,
+80905,BLIP Caption + BERT,crop,1,0,0,False,three men in mugs,two men in mugs
+40562,CLIP + MLP,blur,1,0,0,False,,
+40562,ViLT,blur,1,0,0,False,,
+40562,BLIP Caption + BERT,blur,1,0,0,False,a man standing on a stage,a man standing on a stage with a microphone
+40562,CLIP + MLP,grayscale,1,0,0,False,,
+40562,ViLT,grayscale,1,0,0,False,,
+40562,BLIP Caption + BERT,grayscale,1,0,0,False,a man standing on a stage,person performs on stage during the mbc ' s got a lot
+40562,CLIP + MLP,darken,1,0,0,False,,
+40562,ViLT,darken,1,0,0,False,,
+40562,BLIP Caption + BERT,darken,1,0,1,True,a man standing on a stage,a man in a black jacket
+40562,CLIP + MLP,crop,1,0,0,False,,
+40562,ViLT,crop,1,0,0,False,,
+40562,BLIP Caption + BERT,crop,1,0,0,False,a man standing on a stage,a man in a black shirt
+86888,CLIP + MLP,blur,0,0,0,False,,
+86888,ViLT,blur,0,0,0,False,,
+86888,BLIP Caption + BERT,blur,0,0,0,False,a cow and a baby cow in a field,a cow and a baby cow in a field
+86888,CLIP + MLP,grayscale,0,0,0,False,,
+86888,ViLT,grayscale,0,0,0,False,,
+86888,BLIP Caption + BERT,grayscale,0,0,0,False,a cow and a baby cow in a field,a cow and a cow are in a field
+86888,CLIP + MLP,darken,0,0,0,False,,
+86888,ViLT,darken,0,0,0,False,,
+86888,BLIP Caption + BERT,darken,0,0,0,False,a cow and a baby cow in a field,a cow and a baby cow in a field
+86888,CLIP + MLP,crop,0,0,0,False,,
+86888,ViLT,crop,0,0,0,False,,
+86888,BLIP Caption + BERT,crop,0,0,0,False,a cow and a baby cow in a field,a cow is standing next to a cow
+9317,CLIP + MLP,blur,0,1,1,False,,
+9317,ViLT,blur,0,1,0,True,,
+9317,BLIP Caption + BERT,blur,0,0,0,False,a fish tank filled with plants and water,a plant in a pot on a table
+9317,CLIP + MLP,grayscale,0,1,1,False,,
+9317,ViLT,grayscale,0,1,0,True,,
+9317,BLIP Caption + BERT,grayscale,0,0,0,False,a fish tank filled with plants and water,a black and white photo of a plant in a pot
+9317,CLIP + MLP,darken,0,1,1,False,,
+9317,ViLT,darken,0,1,1,False,,
+9317,BLIP Caption + BERT,darken,0,0,0,False,a fish tank filled with plants and water,a small aquarium with plants inside
+9317,CLIP + MLP,crop,0,1,1,False,,
+9317,ViLT,crop,0,1,0,True,,
+9317,BLIP Caption + BERT,crop,0,0,0,False,a fish tank filled with plants and water,a fish tank filled with plants and water
+3201,CLIP + MLP,blur,1,1,1,False,,
+3201,ViLT,blur,1,0,0,False,,
+3201,BLIP Caption + BERT,blur,1,1,0,True,the huffington on the go,a website with a bunch of different pictures
+3201,CLIP + MLP,grayscale,1,1,1,False,,
+3201,ViLT,grayscale,1,0,0,False,,
+3201,BLIP Caption + BERT,grayscale,1,1,1,False,the huffington on the go,the huffington on the go
+3201,CLIP + MLP,darken,1,1,1,False,,
+3201,ViLT,darken,1,0,0,False,,
+3201,BLIP Caption + BERT,darken,1,1,1,False,the huffington on the go,the huffington post
+3201,CLIP + MLP,crop,1,1,1,False,,
+3201,ViLT,crop,1,0,0,False,,
+3201,BLIP Caption + BERT,crop,1,1,0,True,the huffington on the go,the ultimate guide to the best online dating sites
+8404,CLIP + MLP,blur,1,0,0,False,,
+8404,ViLT,blur,1,1,1,False,,
+8404,BLIP Caption + BERT,blur,1,0,0,False,a man driving a car with a cell phone in his hand,a blurry view of a classroom with a computer screen
+8404,CLIP + MLP,grayscale,1,0,0,False,,
+8404,ViLT,grayscale,1,1,1,False,,
+8404,BLIP Caption + BERT,grayscale,1,0,0,False,a man driving a car with a cell phone in his hand,a man driving a car with a steering
+8404,CLIP + MLP,darken,1,0,0,False,,
+8404,ViLT,darken,1,1,1,False,,
+8404,BLIP Caption + BERT,darken,1,0,0,False,a man driving a car with a cell phone in his hand,a man driving a car with a cell in his hand
+8404,CLIP + MLP,crop,1,0,0,False,,
+8404,ViLT,crop,1,1,1,False,,
+8404,BLIP Caption + BERT,crop,1,0,0,False,a man driving a car with a cell phone in his hand,a man driving a car with a cell in his hand
+48821,CLIP + MLP,blur,0,0,0,False,,
+48821,ViLT,blur,0,0,0,False,,
+48821,BLIP Caption + BERT,blur,0,0,0,False,a red car is driving in front of a blue planet,a small red object with a black background
+48821,CLIP + MLP,grayscale,0,0,0,False,,
+48821,ViLT,grayscale,0,0,0,False,,
+48821,BLIP Caption + BERT,grayscale,0,0,0,False,a red car is driving in front of a blue planet,a black and white image of a car with the moon in the background
+48821,CLIP + MLP,darken,0,0,0,False,,
+48821,ViLT,darken,0,0,0,False,,
+48821,BLIP Caption + BERT,darken,0,0,0,False,a red car is driving in front of a blue planet,a red car with a moon in the background
+48821,CLIP + MLP,crop,0,0,0,False,,
+48821,ViLT,crop,0,0,0,False,,
+48821,BLIP Caption + BERT,crop,0,0,0,False,a red car is driving in front of a blue planet,a red car with a moon in the background
+10760,CLIP + MLP,blur,1,1,1,False,,
+10760,ViLT,blur,1,1,1,False,,
+10760,BLIP Caption + BERT,blur,1,0,0,False,a col col col col col col col col col col col col col col col col col col col col,a bunch of posters with different designs
+10760,CLIP + MLP,grayscale,1,1,1,False,,
+10760,ViLT,grayscale,1,1,1,False,,
+10760,BLIP Caption + BERT,grayscale,1,0,0,False,a col col col col col col col col col col col col col col col col col col col col,a col col col col col col col col col col col col col col col col col col col col
+10760,CLIP + MLP,darken,1,1,1,False,,
+10760,ViLT,darken,1,1,1,False,,
+10760,BLIP Caption + BERT,darken,1,0,0,False,a col col col col col col col col col col col col col col col col col col col col,various posters and flyers for the beatles
+10760,CLIP + MLP,crop,1,1,1,False,,
+10760,ViLT,crop,1,1,1,False,,
+10760,BLIP Caption + BERT,crop,1,0,0,False,a col col col col col col col col col col col col col col col col col col col col,four different posters on a wooden table
+106623,CLIP + MLP,blur,1,1,1,False,,
+106623,ViLT,blur,1,1,1,False,,
+106623,BLIP Caption + BERT,blur,1,0,0,False,a large pile of wood in a warehouse,a large room with many tables and chairs
+106623,CLIP + MLP,grayscale,1,1,1,False,,
+106623,ViLT,grayscale,1,1,1,False,,
+106623,BLIP Caption + BERT,grayscale,1,0,0,False,a large pile of wood in a warehouse,a black and white photo of a fence
+106623,CLIP + MLP,darken,1,1,1,False,,
+106623,ViLT,darken,1,1,1,False,,
+106623,BLIP Caption + BERT,darken,1,0,0,False,a large pile of wood in a warehouse,a large pile of wood is behind a fence
+106623,CLIP + MLP,crop,1,1,1,False,,
+106623,ViLT,crop,1,1,1,False,,
+106623,BLIP Caption + BERT,crop,1,0,0,False,a large pile of wood in a warehouse,a fence with a bunch of wooden crates behind it
+76586,CLIP + MLP,blur,0,0,0,False,,
+76586,ViLT,blur,0,0,0,False,,
+76586,BLIP Caption + BERT,blur,0,0,0,False,a man in a suit and tie holding a golf ball,a man in a suit and tie holding a golf club
+76586,CLIP + MLP,grayscale,0,0,0,False,,
+76586,ViLT,grayscale,0,0,0,False,,
+76586,BLIP Caption + BERT,grayscale,0,0,0,False,a man in a suit and tie holding a golf ball,a man in a suit and tie holding a golf club
+76586,CLIP + MLP,darken,0,0,0,False,,
+76586,ViLT,darken,0,0,0,False,,
+76586,BLIP Caption + BERT,darken,0,0,0,False,a man in a suit and tie holding a golf ball,a man in a suit and tie holding a golf club
+76586,CLIP + MLP,crop,0,0,0,False,,
+76586,ViLT,crop,0,0,0,False,,
+76586,BLIP Caption + BERT,crop,0,0,0,False,a man in a suit and tie holding a golf ball,a man in a suit and tie holding a golf club
+23133,CLIP + MLP,blur,1,1,1,False,,
+23133,ViLT,blur,1,1,1,False,,
+23133,BLIP Caption + BERT,blur,1,0,0,False,a person holding a card in their hand,a person holding a card in their hand
+23133,CLIP + MLP,grayscale,1,1,1,False,,
+23133,ViLT,grayscale,1,1,0,True,,
+23133,BLIP Caption + BERT,grayscale,1,0,0,False,a person holding a card in their hand,a person holding a card in their hand
+23133,CLIP + MLP,darken,1,1,1,False,,
+23133,ViLT,darken,1,1,1,False,,
+23133,BLIP Caption + BERT,darken,1,0,0,False,a person holding a card in their hand,a person holding a card in their hand
+23133,CLIP + MLP,crop,1,1,1,False,,
+23133,ViLT,crop,1,1,1,False,,
+23133,BLIP Caption + BERT,crop,1,0,0,False,a person holding a card in their hand,a person holding a card in their hand
+19944,CLIP + MLP,blur,0,0,0,False,,
+19944,ViLT,blur,0,0,0,False,,
+19944,BLIP Caption + BERT,blur,0,0,0,False,a statue of a man holding a sword,a statue of a man holding a sword
+19944,CLIP + MLP,grayscale,0,0,0,False,,
+19944,ViLT,grayscale,0,0,0,False,,
+19944,BLIP Caption + BERT,grayscale,0,0,0,False,a statue of a man holding a sword,two people in a bamboo forest with bamboo trees
+19944,CLIP + MLP,darken,0,0,0,False,,
+19944,ViLT,darken,0,0,0,False,,
+19944,BLIP Caption + BERT,darken,0,0,0,False,a statue of a man holding a sword,a statue of a man holding a sword
+19944,CLIP + MLP,crop,0,0,0,False,,
+19944,ViLT,crop,0,0,0,False,,
+19944,BLIP Caption + BERT,crop,0,0,0,False,a statue of a man holding a sword,a statue of a man holding a sword
+32970,CLIP + MLP,blur,0,0,0,False,,
+32970,ViLT,blur,0,0,0,False,,
+32970,BLIP Caption + BERT,blur,0,0,0,False,a man with glasses and a beard standing in front of a building,a man in a suit and tie standing in front of a poster
+32970,CLIP + MLP,grayscale,0,0,0,False,,
+32970,ViLT,grayscale,0,0,0,False,,
+32970,BLIP Caption + BERT,grayscale,0,0,0,False,a man with glasses and a beard standing in front of a building,a man with glasses and a beard in a black and white photo
+32970,CLIP + MLP,darken,0,0,0,False,,
+32970,ViLT,darken,0,0,0,False,,
+32970,BLIP Caption + BERT,darken,0,0,0,False,a man with glasses and a beard standing in front of a building,a man in glasses and a suit with a quote on it
+32970,CLIP + MLP,crop,0,0,0,False,,
+32970,ViLT,crop,0,0,0,False,,
+32970,BLIP Caption + BERT,crop,0,0,0,False,a man with glasses and a beard standing in front of a building,a man with glasses and a beard standing in front of a building
+102044,CLIP + MLP,blur,1,0,0,False,,
+102044,ViLT,blur,1,0,0,False,,
+102044,BLIP Caption + BERT,blur,1,0,0,False,a cat laying on a bed with a white sheet,a cat is sitting on a bed with a paper
+102044,CLIP + MLP,grayscale,1,0,0,False,,
+102044,ViLT,grayscale,1,0,0,False,,
+102044,BLIP Caption + BERT,grayscale,1,0,0,False,a cat laying on a bed with a white sheet,a cat laying on top of a bed
+102044,CLIP + MLP,darken,1,0,0,False,,
+102044,ViLT,darken,1,0,1,True,,
+102044,BLIP Caption + BERT,darken,1,0,0,False,a cat laying on a bed with a white sheet,a cat laying on top of a bed with a piece of paper
+102044,CLIP + MLP,crop,1,0,0,False,,
+102044,ViLT,crop,1,0,1,True,,
+102044,BLIP Caption + BERT,crop,1,0,0,False,a cat laying on a bed with a white sheet,a cat wearing a white shirt
+95385,CLIP + MLP,blur,0,0,0,False,,
+95385,ViLT,blur,0,0,0,False,,
+95385,BLIP Caption + BERT,blur,0,0,0,False,a scene from the movie exodus,a man standing on top of a stage next to a crowd
+95385,CLIP + MLP,grayscale,0,0,0,False,,
+95385,ViLT,grayscale,0,0,0,False,,
+95385,BLIP Caption + BERT,grayscale,0,0,0,False,a scene from the movie exodus,a man is kneeling on the ground in front of a crowd
+95385,CLIP + MLP,darken,0,0,0,False,,
+95385,ViLT,darken,0,0,0,False,,
+95385,BLIP Caption + BERT,darken,0,0,0,False,a scene from the movie exodus,a man in a black suit is standing on the ground with his hands up
+95385,CLIP + MLP,crop,0,0,0,False,,
+95385,ViLT,crop,0,0,0,False,,
+95385,BLIP Caption + BERT,crop,0,0,0,False,a scene from the movie exodus,a scene from the movie glad glad glad glad glad glad glad glad glad glad glad glad glad glad glad glad
+85106,CLIP + MLP,blur,1,1,1,False,,
+85106,ViLT,blur,1,1,0,True,,
+85106,BLIP Caption + BERT,blur,1,1,0,True,the logo for the canadian chamber orchestra,the logo for the canadian red cross
+85106,CLIP + MLP,grayscale,1,1,1,False,,
+85106,ViLT,grayscale,1,1,0,True,,
+85106,BLIP Caption + BERT,grayscale,1,1,0,True,the logo for the canadian chamber orchestra,the logo for the company
+85106,CLIP + MLP,darken,1,1,1,False,,
+85106,ViLT,darken,1,1,1,False,,
+85106,BLIP Caption + BERT,darken,1,1,0,True,the logo for the canadian chamber orchestra,the logo for the new company
+85106,CLIP + MLP,crop,1,1,1,False,,
+85106,ViLT,crop,1,1,0,True,,
+85106,BLIP Caption + BERT,crop,1,1,0,True,the logo for the canadian chamber orchestra,the logo for the canadian red cross
+71251,CLIP + MLP,blur,0,0,0,False,,
+71251,ViLT,blur,0,0,0,False,,
+71251,BLIP Caption + BERT,blur,0,0,0,False,a man sitting on a couch,a man sitting on a couch with a cardboard robot
+71251,CLIP + MLP,grayscale,0,0,0,False,,
+71251,ViLT,grayscale,0,0,0,False,,
+71251,BLIP Caption + BERT,grayscale,0,0,0,False,a man sitting on a couch,a man sitting on a couch with a cardboard robot
+71251,CLIP + MLP,darken,0,0,0,False,,
+71251,ViLT,darken,0,0,0,False,,
+71251,BLIP Caption + BERT,darken,0,0,0,False,a man sitting on a couch,a man sitting on a couch with a cardboard robot
+71251,CLIP + MLP,crop,0,0,0,False,,
+71251,ViLT,crop,0,0,0,False,,
+71251,BLIP Caption + BERT,crop,0,0,0,False,a man sitting on a couch,a man sitting on a couch with a cardboard robot
+21387,CLIP + MLP,blur,0,0,0,False,,
+21387,ViLT,blur,0,0,0,False,,
+21387,BLIP Caption + BERT,blur,0,0,0,False,a bathroom with a bathtub and a sink,a bathroom with a large tub and a sink
+21387,CLIP + MLP,grayscale,0,0,0,False,,
+21387,ViLT,grayscale,0,0,0,False,,
+21387,BLIP Caption + BERT,grayscale,0,0,0,False,a bathroom with a bathtub and a sink,a bathroom with a bathtub and toilet
+21387,CLIP + MLP,darken,0,0,0,False,,
+21387,ViLT,darken,0,0,0,False,,
+21387,BLIP Caption + BERT,darken,0,0,0,False,a bathroom with a bathtub and a sink,a bathroom with a bathtub and toilet
+21387,CLIP + MLP,crop,0,0,0,False,,
+21387,ViLT,crop,0,0,0,False,,
+21387,BLIP Caption + BERT,crop,0,0,0,False,a bathroom with a bathtub and a sink,a bathroom with a bathtub and sink
+101622,CLIP + MLP,blur,0,0,0,False,,
+101622,ViLT,blur,0,0,0,False,,
+101622,BLIP Caption + BERT,blur,0,1,0,True,a little victory by lauren m smith,a person walking on a yellow line
+101622,CLIP + MLP,grayscale,0,0,0,False,,
+101622,ViLT,grayscale,0,0,0,False,,
+101622,BLIP Caption + BERT,grayscale,0,1,0,True,a little victory by lauren m smith,a little victory by person
+101622,CLIP + MLP,darken,0,0,0,False,,
+101622,ViLT,darken,0,0,0,False,,
+101622,BLIP Caption + BERT,darken,0,1,0,True,a little victory by lauren m smith,a woman ' s legs and feet are shown in the middle of a book cover
+101622,CLIP + MLP,crop,0,0,0,False,,
+101622,ViLT,crop,0,0,0,False,,
+101622,BLIP Caption + BERT,crop,0,1,0,True,a little victory by lauren m smith,"a woman running on a road with the words, ' all the victory '"
+33958,CLIP + MLP,blur,0,0,0,False,,
+33958,ViLT,blur,0,0,0,False,,
+33958,BLIP Caption + BERT,blur,0,0,0,False,a penguin and a penguinling standing in the snow,a penguin and a penguin standing on the ice
+33958,CLIP + MLP,grayscale,0,0,0,False,,
+33958,ViLT,grayscale,0,0,0,False,,
+33958,BLIP Caption + BERT,grayscale,0,0,0,False,a penguin and a penguinling standing in the snow,emperor penguin and chick
+33958,CLIP + MLP,darken,0,0,0,False,,
+33958,ViLT,darken,0,0,0,False,,
+33958,BLIP Caption + BERT,darken,0,0,0,False,a penguin and a penguinling standing in the snow,a penguin and a penguinling standing in the snow
+33958,CLIP + MLP,crop,0,0,0,False,,
+33958,ViLT,crop,0,0,0,False,,
+33958,BLIP Caption + BERT,crop,0,0,1,True,a penguin and a penguinling standing in the snow,a penguin and a penguinling on the ice
+58701,CLIP + MLP,blur,0,0,0,False,,
+58701,ViLT,blur,0,0,0,False,,
+58701,BLIP Caption + BERT,blur,0,0,0,False,the boston celtics are playing in the nba playoffs,the boston celtics are playing in the nba playoffs
+58701,CLIP + MLP,grayscale,0,0,0,False,,
+58701,ViLT,grayscale,0,0,0,False,,
+58701,BLIP Caption + BERT,grayscale,0,0,0,False,the boston celtics are playing in the nba playoffs,a group of men playing basketball in a stadium
+58701,CLIP + MLP,darken,0,0,0,False,,
+58701,ViLT,darken,0,0,0,False,,
+58701,BLIP Caption + BERT,darken,0,0,0,False,the boston celtics are playing in the nba playoffs,the nba basketball game is coming
+58701,CLIP + MLP,crop,0,0,0,False,,
+58701,ViLT,crop,0,0,0,False,,
+58701,BLIP Caption + BERT,crop,0,0,0,False,the boston celtics are playing in the nba playoffs,the boston celtics are playing in the nba playoffs
+108328,CLIP + MLP,blur,1,0,0,False,,
+108328,ViLT,blur,1,0,0,False,,
+108328,BLIP Caption + BERT,blur,1,0,0,False,a green pepper plant with a green pepper on it,a green pepper plant with a few green peppers growing in the ground
+108328,CLIP + MLP,grayscale,1,0,0,False,,
+108328,ViLT,grayscale,1,0,0,False,,
+108328,BLIP Caption + BERT,grayscale,1,0,1,True,a green pepper plant with a green pepper on it,a black and white photo of a plant
+108328,CLIP + MLP,darken,1,0,0,False,,
+108328,ViLT,darken,1,0,0,False,,
+108328,BLIP Caption + BERT,darken,1,0,0,False,a green pepper plant with a green pepper on it,a green pepper plant with a green pepper plant in the background
+108328,CLIP + MLP,crop,1,0,0,False,,
+108328,ViLT,crop,1,0,0,False,,
+108328,BLIP Caption + BERT,crop,1,0,0,False,a green pepper plant with a green pepper on it,a green pepper plant with a green pepper on it ' s stem
+96153,CLIP + MLP,blur,1,0,0,False,,
+96153,ViLT,blur,1,0,0,False,,
+96153,BLIP Caption + BERT,blur,1,0,0,False,a young boy sitting in a shopping cart reading a book,a young boy is reading a book in a shopping cart
+96153,CLIP + MLP,grayscale,1,0,0,False,,
+96153,ViLT,grayscale,1,0,0,False,,
+96153,BLIP Caption + BERT,grayscale,1,0,0,False,a young boy sitting in a shopping cart reading a book,a young boy sitting in a shopping cart
+96153,CLIP + MLP,darken,1,0,0,False,,
+96153,ViLT,darken,1,0,0,False,,
+96153,BLIP Caption + BERT,darken,1,0,0,False,a young boy sitting in a shopping cart reading a book,a young boy sitting in a shopping cart reading a book
+96153,CLIP + MLP,crop,1,0,0,False,,
+96153,ViLT,crop,1,0,0,False,,
+96153,BLIP Caption + BERT,crop,1,0,0,False,a young boy sitting in a shopping cart reading a book,a young boy sitting in a shopping cart reading a book
+25057,CLIP + MLP,blur,0,0,0,False,,
+25057,ViLT,blur,0,0,0,False,,
+25057,BLIP Caption + BERT,blur,0,0,0,False,a dog is standing on the ground,a white dog is standing on the ground
+25057,CLIP + MLP,grayscale,0,0,0,False,,
+25057,ViLT,grayscale,0,0,0,False,,
+25057,BLIP Caption + BERT,grayscale,0,0,0,False,a dog is standing on the ground,a black and white photo of a dog
+25057,CLIP + MLP,darken,0,0,0,False,,
+25057,ViLT,darken,0,0,0,False,,
+25057,BLIP Caption + BERT,darken,0,0,0,False,a dog is standing on the ground,a dog is standing on the sidewalk
+25057,CLIP + MLP,crop,0,0,0,False,,
+25057,ViLT,crop,0,0,0,False,,
+25057,BLIP Caption + BERT,crop,0,0,0,False,a dog is standing on the ground,a dog is standing on the sidewalk
+2874,CLIP + MLP,blur,0,0,0,False,,
+2874,ViLT,blur,0,0,0,False,,
+2874,BLIP Caption + BERT,blur,0,0,0,False,a monkey wearing a hat and sunglasses sitting in the grass,a monkey with a banda on its head
+2874,CLIP + MLP,grayscale,0,0,0,False,,
+2874,ViLT,grayscale,0,0,0,False,,
+2874,BLIP Caption + BERT,grayscale,0,0,0,False,a monkey wearing a hat and sunglasses sitting in the grass,a gorilla wearing a hat and scarf sitting on a log
+2874,CLIP + MLP,darken,0,0,0,False,,
+2874,ViLT,darken,0,0,0,False,,
+2874,BLIP Caption + BERT,darken,0,0,1,True,a monkey wearing a hat and sunglasses sitting in the grass,a chiy chiy chiy chiy chiy chiy chiy chiy chiy chiy chiy chiy chiy chi
+2874,CLIP + MLP,crop,0,0,0,False,,
+2874,ViLT,crop,0,0,0,False,,
+2874,BLIP Caption + BERT,crop,0,0,0,False,a monkey wearing a hat and sunglasses sitting in the grass,a monkey wearing a banda and sunglasses
+93901,CLIP + MLP,blur,0,0,0,False,,
+93901,ViLT,blur,0,0,0,False,,
+93901,BLIP Caption + BERT,blur,0,0,0,False,a satellite image of a small asteroid,a black and white photo of a group of planets
+93901,CLIP + MLP,grayscale,0,0,0,False,,
+93901,ViLT,grayscale,0,0,0,False,,
+93901,BLIP Caption + BERT,grayscale,0,0,1,True,a satellite image of a small asteroid,the comet comet and its satellites
+93901,CLIP + MLP,darken,0,0,0,False,,
+93901,ViLT,darken,0,0,0,False,,
+93901,BLIP Caption + BERT,darken,0,0,0,False,a satellite image of a small asteroid,a map of the area
+93901,CLIP + MLP,crop,0,0,0,False,,
+93901,ViLT,crop,0,0,0,False,,
+93901,BLIP Caption + BERT,crop,0,0,0,False,a satellite image of a small asteroid,a group of asteroids in the dark sky
+75143,CLIP + MLP,blur,0,0,0,False,,
+75143,ViLT,blur,0,0,0,False,,
+75143,BLIP Caption + BERT,blur,0,0,0,False,a man in a suit and tie sitting at a table,a man in a suit eating a sandwich
+75143,CLIP + MLP,grayscale,0,0,0,False,,
+75143,ViLT,grayscale,0,0,0,False,,
+75143,BLIP Caption + BERT,grayscale,0,0,0,False,a man in a suit and tie sitting at a table,a man sitting at a table with a laptop
+75143,CLIP + MLP,darken,0,0,0,False,,
+75143,ViLT,darken,0,0,0,False,,
+75143,BLIP Caption + BERT,darken,0,0,0,False,a man in a suit and tie sitting at a table,a man in a suit and tie sitting at a table
+75143,CLIP + MLP,crop,0,0,0,False,,
+75143,ViLT,crop,0,0,0,False,,
+75143,BLIP Caption + BERT,crop,0,0,0,False,a man in a suit and tie sitting at a table,a man in a suit and tie sitting at a table
+97700,CLIP + MLP,blur,1,0,0,False,,
+97700,ViLT,blur,1,0,0,False,,
+97700,BLIP Caption + BERT,blur,1,0,1,True,a small coin sitting on top of a table,a metal ball on a table
+97700,CLIP + MLP,grayscale,1,0,0,False,,
+97700,ViLT,grayscale,1,0,0,False,,
+97700,BLIP Caption + BERT,grayscale,1,0,1,True,a small coin sitting on top of a table,a coin on a table
+97700,CLIP + MLP,darken,1,0,0,False,,
+97700,ViLT,darken,1,0,0,False,,
+97700,BLIP Caption + BERT,darken,1,0,0,False,a small coin sitting on top of a table,a small coin sitting on top of a table
+97700,CLIP + MLP,crop,1,0,0,False,,
+97700,ViLT,crop,1,0,0,False,,
+97700,BLIP Caption + BERT,crop,1,0,0,False,a small coin sitting on top of a table,a small coin sitting on top of a table
+111617,CLIP + MLP,blur,1,1,1,False,,
+111617,ViLT,blur,1,0,1,True,,
+111617,BLIP Caption + BERT,blur,1,1,1,False,a family poses for a photo in the mountains,a man and woman standing in a field
+111617,CLIP + MLP,grayscale,1,1,1,False,,
+111617,ViLT,grayscale,1,0,1,True,,
+111617,BLIP Caption + BERT,grayscale,1,1,1,False,a family poses for a photo in the mountains,a man and woman standing in a field
+111617,CLIP + MLP,darken,1,1,1,False,,
+111617,ViLT,darken,1,0,1,True,,
+111617,BLIP Caption + BERT,darken,1,1,1,False,a family poses for a photo in the mountains,a family poses for a photo in the mountains
+111617,CLIP + MLP,crop,1,1,1,False,,
+111617,ViLT,crop,1,0,1,True,,
+111617,BLIP Caption + BERT,crop,1,1,0,True,a family poses for a photo in the mountains,a family poses for a photo in the middle of a field
+47722,CLIP + MLP,blur,1,0,0,False,,
+47722,ViLT,blur,1,1,1,False,,
+47722,BLIP Caption + BERT,blur,1,1,0,True,a room with gold and red walls and ceiling,a large piece of wood with a pattern on it
+47722,CLIP + MLP,grayscale,1,0,0,False,,
+47722,ViLT,grayscale,1,1,0,True,,
+47722,BLIP Caption + BERT,grayscale,1,1,0,True,a room with gold and red walls and ceiling,the ceiling in the chapel
+47722,CLIP + MLP,darken,1,0,0,False,,
+47722,ViLT,darken,1,1,1,False,,
+47722,BLIP Caption + BERT,darken,1,1,1,False,a room with gold and red walls and ceiling,the ceiling of the hall of mirrors
+47722,CLIP + MLP,crop,1,0,0,False,,
+47722,ViLT,crop,1,1,1,False,,
+47722,BLIP Caption + BERT,crop,1,1,1,False,a room with gold and red walls and ceiling,the ceiling in the palace
+2956,CLIP + MLP,blur,1,0,0,False,,
+2956,ViLT,blur,1,0,0,False,,
+2956,BLIP Caption + BERT,blur,1,1,1,False,a police car is seen in this image,a blur of a car driving down a street
+2956,CLIP + MLP,grayscale,1,0,0,False,,
+2956,ViLT,grayscale,1,0,0,False,,
+2956,BLIP Caption + BERT,grayscale,1,1,1,False,a police car is seen in this image,a police car is seen in this image
+2956,CLIP + MLP,darken,1,0,0,False,,
+2956,ViLT,darken,1,0,0,False,,
+2956,BLIP Caption + BERT,darken,1,1,1,False,a police car is seen in this image,a police car is parked in the dark
+2956,CLIP + MLP,crop,1,0,0,False,,
+2956,ViLT,crop,1,0,1,True,,
+2956,BLIP Caption + BERT,crop,1,1,1,False,a police car is seen in this image,a police car is seen in this image
+91329,CLIP + MLP,blur,0,0,0,False,,
+91329,ViLT,blur,0,0,0,False,,
+91329,BLIP Caption + BERT,blur,0,0,1,True,a small bird is sitting on the beach,a person in a kayak pad pad pad pad pad pad pad pad pad pad pad pad pad pad pad
+91329,CLIP + MLP,grayscale,0,0,0,False,,
+91329,ViLT,grayscale,0,0,0,False,,
+91329,BLIP Caption + BERT,grayscale,0,0,0,False,a small bird is sitting on the beach,a black and white photo of a sea turtle on the beach
+91329,CLIP + MLP,darken,0,0,0,False,,
+91329,ViLT,darken,0,0,0,False,,
+91329,BLIP Caption + BERT,darken,0,0,0,False,a small bird is sitting on the beach,a small bird is sitting on the beach
+91329,CLIP + MLP,crop,0,0,0,False,,
+91329,ViLT,crop,0,0,0,False,,
+91329,BLIP Caption + BERT,crop,0,0,0,False,a small bird is sitting on the beach,a small turtle on the beach
+96303,CLIP + MLP,blur,0,0,0,False,,
+96303,ViLT,blur,0,0,0,False,,
+96303,BLIP Caption + BERT,blur,0,0,0,False,a woman holding a cup,a woman and a child are dancing in a room
+96303,CLIP + MLP,grayscale,0,0,0,False,,
+96303,ViLT,grayscale,0,0,0,False,,
+96303,BLIP Caption + BERT,grayscale,0,0,0,False,a woman holding a cup,a woman in a coat and a woman in a dress
+96303,CLIP + MLP,darken,0,0,0,False,,
+96303,ViLT,darken,0,0,0,False,,
+96303,BLIP Caption + BERT,darken,0,0,0,False,a woman holding a cup,a woman holding a cup
+96303,CLIP + MLP,crop,0,0,0,False,,
+96303,ViLT,crop,0,0,0,False,,
+96303,BLIP Caption + BERT,crop,0,0,0,False,a woman holding a cup,a woman holding a cup
+108776,CLIP + MLP,blur,1,0,0,False,,
+108776,ViLT,blur,1,0,0,False,,
+108776,BLIP Caption + BERT,blur,1,1,1,False,two kittens are sitting on the ground,a cat is sitting on a chair
+108776,CLIP + MLP,grayscale,1,0,0,False,,
+108776,ViLT,grayscale,1,0,0,False,,
+108776,BLIP Caption + BERT,grayscale,1,1,1,False,two kittens are sitting on the ground,two kittens are sitting on the ground
+108776,CLIP + MLP,darken,1,0,0,False,,
+108776,ViLT,darken,1,0,0,False,,
+108776,BLIP Caption + BERT,darken,1,1,1,False,two kittens are sitting on the ground,two kittens are laying on the floor
+108776,CLIP + MLP,crop,1,0,0,False,,
+108776,ViLT,crop,1,0,0,False,,
+108776,BLIP Caption + BERT,crop,1,1,1,False,two kittens are sitting on the ground,two kittens are sitting on the ground
+96274,CLIP + MLP,blur,0,0,0,False,,
+96274,ViLT,blur,0,0,0,False,,
+96274,BLIP Caption + BERT,blur,0,0,0,False,a woman in an orange jacket and blue pants is walking on a rocky beach,a person walking on a beach with a surfboard
+96274,CLIP + MLP,grayscale,0,0,0,False,,
+96274,ViLT,grayscale,0,0,0,False,,
+96274,BLIP Caption + BERT,grayscale,0,0,0,False,a woman in an orange jacket and blue pants is walking on a rocky beach,a woman in white dress walking on a rocky beach
+96274,CLIP + MLP,darken,0,0,0,False,,
+96274,ViLT,darken,0,0,0,False,,
+96274,BLIP Caption + BERT,darken,0,0,0,False,a woman in an orange jacket and blue pants is walking on a rocky beach,a woman in a yellow jacket and blue pants is walking on a rocky beach
+96274,CLIP + MLP,crop,0,0,0,False,,
+96274,ViLT,crop,0,0,0,False,,
+96274,BLIP Caption + BERT,crop,0,0,0,False,a woman in an orange jacket and blue pants is walking on a rocky beach,a man and a child are standing on a rocky beach
+5155,CLIP + MLP,blur,0,0,0,False,,
+5155,ViLT,blur,0,0,1,True,,
+5155,BLIP Caption + BERT,blur,0,0,1,True,"president obama and his wife, michelle, are seen in the oval room of the white house on monday, oct 11, 2012",president person meets with a child at the white house
+5155,CLIP + MLP,grayscale,0,0,0,False,,
+5155,ViLT,grayscale,0,0,1,True,,
+5155,BLIP Caption + BERT,grayscale,0,0,1,True,"president obama and his wife, michelle, are seen in the oval room of the white house on monday, oct 11, 2012",a man in a suit adjusting another man ' s tie
+5155,CLIP + MLP,darken,0,0,0,False,,
+5155,ViLT,darken,0,0,0,False,,
+5155,BLIP Caption + BERT,darken,0,0,0,False,"president obama and his wife, michelle, are seen in the oval room of the white house on monday, oct 11, 2012",a young boy in a suit
+5155,CLIP + MLP,crop,0,0,0,False,,
+5155,ViLT,crop,0,0,1,True,,
+5155,BLIP Caption + BERT,crop,0,0,1,True,"president obama and his wife, michelle, are seen in the oval room of the white house on monday, oct 11, 2012","president obama and his son, barack, are shown in the oval room of the white house"
+82723,CLIP + MLP,blur,1,1,1,False,,
+82723,ViLT,blur,1,1,1,False,,
+82723,BLIP Caption + BERT,blur,1,0,0,False,"the book cover for the book, the book of the sea","the cover of the book, the whale"
+82723,CLIP + MLP,grayscale,1,1,1,False,,
+82723,ViLT,grayscale,1,1,0,True,,
+82723,BLIP Caption + BERT,grayscale,1,0,0,False,"the book cover for the book, the book of the sea","the book cover for the book, with a black and white image of a bird flying in the sky"
+82723,CLIP + MLP,darken,1,1,1,False,,
+82723,ViLT,darken,1,1,1,False,,
+82723,BLIP Caption + BERT,darken,1,0,0,False,"the book cover for the book, the book of the sea","the book cover for the book, the whale"
+82723,CLIP + MLP,crop,1,1,1,False,,
+82723,ViLT,crop,1,1,1,False,,
+82723,BLIP Caption + BERT,crop,1,0,0,False,"the book cover for the book, the book of the sea",the whale by william william wallace
+67065,CLIP + MLP,blur,1,1,1,False,,
+67065,ViLT,blur,1,1,0,True,,
+67065,BLIP Caption + BERT,blur,1,0,0,False,a fence that has been set up on the side of a road,a man in a black shirt and a white shirt is standing in front of a mountain
+67065,CLIP + MLP,grayscale,1,1,1,False,,
+67065,ViLT,grayscale,1,1,1,False,,
+67065,BLIP Caption + BERT,grayscale,1,0,0,False,a fence that has been set up on the side of a road,a fence with a bird in it
+67065,CLIP + MLP,darken,1,1,1,False,,
+67065,ViLT,darken,1,1,1,False,,
+67065,BLIP Caption + BERT,darken,1,0,0,False,a fence that has been set up on the side of a road,a large mesh net is attached to a fence
+67065,CLIP + MLP,crop,1,1,1,False,,
+67065,ViLT,crop,1,1,1,False,,
+67065,BLIP Caption + BERT,crop,1,0,0,False,a fence that has been set up on the side of a road,a chicken cage with a chicken inside
+75462,CLIP + MLP,blur,0,0,0,False,,
+75462,ViLT,blur,0,0,0,False,,
+75462,BLIP Caption + BERT,blur,0,0,0,False,a bottle of wine with a label that says gre grove aged 8 years,a bottle of wine with a label that says gre grove aged 8 years
+75462,CLIP + MLP,grayscale,0,0,0,False,,
+75462,ViLT,grayscale,0,0,0,False,,
+75462,BLIP Caption + BERT,grayscale,0,0,0,False,a bottle of wine with a label that says gre grove aged 8 years,a bottle of wine with a label on it
+75462,CLIP + MLP,darken,0,0,0,False,,
+75462,ViLT,darken,0,0,0,False,,
+75462,BLIP Caption + BERT,darken,0,0,0,False,a bottle of wine with a label that says gre grove aged 8 years,a bottle of wine with a label that says wine cave age 8 years
+75462,CLIP + MLP,crop,0,0,0,False,,
+75462,ViLT,crop,0,0,0,False,,
+75462,BLIP Caption + BERT,crop,0,0,0,False,a bottle of wine with a label that says gre grove aged 8 years,"a bottle of wine with a label that says, ' wine cremee aged 8 years '"
+107166,CLIP + MLP,blur,0,0,0,False,,
+107166,ViLT,blur,0,0,1,True,,
+107166,BLIP Caption + BERT,blur,0,1,1,False,a man with a tattoo on his arm,a woman with a tattoo on her arm
+107166,CLIP + MLP,grayscale,0,0,0,False,,
+107166,ViLT,grayscale,0,0,0,False,,
+107166,BLIP Caption + BERT,grayscale,0,1,1,False,a man with a tattoo on his arm,a man with a tattoo on his arm
+107166,CLIP + MLP,darken,0,0,0,False,,
+107166,ViLT,darken,0,0,0,False,,
+107166,BLIP Caption + BERT,darken,0,1,1,False,a man with a tattoo on his arm,a man with a tattoo on his arm
+107166,CLIP + MLP,crop,0,0,0,False,,
+107166,ViLT,crop,0,0,0,False,,
+107166,BLIP Caption + BERT,crop,0,1,1,False,a man with a tattoo on his arm,a man with a tattoo on his arm
+110087,CLIP + MLP,blur,1,0,0,False,,
+110087,ViLT,blur,1,0,0,False,,
+110087,BLIP Caption + BERT,blur,1,0,0,False,a man and woman in a room with a car,a group of people walking around a car
+110087,CLIP + MLP,grayscale,1,0,0,False,,
+110087,ViLT,grayscale,1,0,0,False,,
+110087,BLIP Caption + BERT,grayscale,1,0,0,False,a man and woman in a room with a car,a group of people standing around a car
+110087,CLIP + MLP,darken,1,0,0,False,,
+110087,ViLT,darken,1,0,0,False,,
+110087,BLIP Caption + BERT,darken,1,0,0,False,a man and woman in a room with a car,a group of people standing around a car
+110087,CLIP + MLP,crop,1,0,0,False,,
+110087,ViLT,crop,1,0,0,False,,
+110087,BLIP Caption + BERT,crop,1,0,0,False,a man and woman in a room with a car,a man and woman in a suit are fighting
+60653,CLIP + MLP,blur,0,0,0,False,,
+60653,ViLT,blur,0,0,0,False,,
+60653,BLIP Caption + BERT,blur,0,1,1,False,a group of children playing soccer in a field,a group of children playing soccer in a field
+60653,CLIP + MLP,grayscale,0,0,0,False,,
+60653,ViLT,grayscale,0,0,0,False,,
+60653,BLIP Caption + BERT,grayscale,0,1,1,False,a group of children playing soccer in a field,a group of children playing soccer in a field
+60653,CLIP + MLP,darken,0,0,0,False,,
+60653,ViLT,darken,0,0,0,False,,
+60653,BLIP Caption + BERT,darken,0,1,0,True,a group of children playing soccer in a field,a group of kids running across a field
+60653,CLIP + MLP,crop,0,0,0,False,,
+60653,ViLT,crop,0,0,0,False,,
+60653,BLIP Caption + BERT,crop,0,1,1,False,a group of children playing soccer in a field,a group of children playing soccer in a field
+97650,CLIP + MLP,blur,1,0,0,False,,
+97650,ViLT,blur,1,0,0,False,,
+97650,BLIP Caption + BERT,blur,1,0,0,False,a car is stopped at a stop on the side of the road,a car is driving down a street with a stop sign
+97650,CLIP + MLP,grayscale,1,0,0,False,,
+97650,ViLT,grayscale,1,0,0,False,,
+97650,BLIP Caption + BERT,grayscale,1,0,0,False,a car is stopped at a stop on the side of the road,a car is driving down the road in the middle of the city
+97650,CLIP + MLP,darken,1,0,0,False,,
+97650,ViLT,darken,1,0,0,False,,
+97650,BLIP Caption + BERT,darken,1,0,0,False,a car is stopped at a stop on the side of the road,a car is driving down the road in the daytime
+97650,CLIP + MLP,crop,1,0,0,False,,
+97650,ViLT,crop,1,0,0,False,,
+97650,BLIP Caption + BERT,crop,1,0,0,False,a car is stopped at a stop on the side of the road,a car is parked on the side of the road
+35745,CLIP + MLP,blur,1,1,1,False,,
+35745,ViLT,blur,1,1,1,False,,
+35745,BLIP Caption + BERT,blur,1,0,0,False,a person holding a piece of driftwood on the beach,a person holding a stick on the beach
+35745,CLIP + MLP,grayscale,1,1,1,False,,
+35745,ViLT,grayscale,1,1,1,False,,
+35745,BLIP Caption + BERT,grayscale,1,0,0,False,a person holding a piece of driftwood on the beach,a woman sitting on the beach with her legs crossed
+35745,CLIP + MLP,darken,1,1,1,False,,
+35745,ViLT,darken,1,1,1,False,,
+35745,BLIP Caption + BERT,darken,1,0,0,False,a person holding a piece of driftwood on the beach,a person holding a stick on a beach
+35745,CLIP + MLP,crop,1,1,1,False,,
+35745,ViLT,crop,1,1,1,False,,
+35745,BLIP Caption + BERT,crop,1,0,0,False,a person holding a piece of driftwood on the beach,a person holding a stick on a beach
+80963,CLIP + MLP,blur,0,0,0,False,,
+80963,ViLT,blur,0,0,0,False,,
+80963,BLIP Caption + BERT,blur,0,0,0,False,a dog with a frumbous expression,a dog with a frumbous expression
+80963,CLIP + MLP,grayscale,0,0,0,False,,
+80963,ViLT,grayscale,0,0,0,False,,
+80963,BLIP Caption + BERT,grayscale,0,0,0,False,a dog with a frumbous expression,a dog with a harness on running through the sand
+80963,CLIP + MLP,darken,0,0,0,False,,
+80963,ViLT,darken,0,0,0,False,,
+80963,BLIP Caption + BERT,darken,0,0,0,False,a dog with a frumbous expression,a dog with a green and white scarf on its neck
+80963,CLIP + MLP,crop,0,0,0,False,,
+80963,ViLT,crop,0,0,0,False,,
+80963,BLIP Caption + BERT,crop,0,0,0,False,a dog with a frumbous expression,a dog with a frurd mouth
+28402,CLIP + MLP,blur,1,0,0,False,,
+28402,ViLT,blur,1,1,0,True,,
+28402,BLIP Caption + BERT,blur,1,0,0,False,two girls standing in front of a chalk board,two girls standing in front of a chalk board
+28402,CLIP + MLP,grayscale,1,0,0,False,,
+28402,ViLT,grayscale,1,1,0,True,,
+28402,BLIP Caption + BERT,grayscale,1,0,0,False,two girls standing in front of a chalk board,two girls standing in front of a blackboard with the words you sesement no one diet
+28402,CLIP + MLP,darken,1,0,0,False,,
+28402,ViLT,darken,1,1,0,True,,
+28402,BLIP Caption + BERT,darken,1,0,0,False,two girls standing in front of a chalk board,two girls standing in front of a blackboard
+28402,CLIP + MLP,crop,1,0,0,False,,
+28402,ViLT,crop,1,1,0,True,,
+28402,BLIP Caption + BERT,crop,1,0,0,False,two girls standing in front of a chalk board,two girls standing in front of a blackboard
+32876,CLIP + MLP,blur,1,1,1,False,,
+32876,ViLT,blur,1,1,1,False,,
+32876,BLIP Caption + BERT,blur,1,0,0,False,a sign on a public restroom door,a sign on a door with several different signs
+32876,CLIP + MLP,grayscale,1,1,1,False,,
+32876,ViLT,grayscale,1,1,1,False,,
+32876,BLIP Caption + BERT,grayscale,1,0,0,False,a sign on a public restroom door,a black and white photo of a bathroom sign
+32876,CLIP + MLP,darken,1,1,1,False,,
+32876,ViLT,darken,1,1,1,False,,
+32876,BLIP Caption + BERT,darken,1,0,0,False,a sign on a public restroom door,a sign on a door in a bathroom
+32876,CLIP + MLP,crop,1,1,1,False,,
+32876,ViLT,crop,1,1,1,False,,
+32876,BLIP Caption + BERT,crop,1,0,0,False,a sign on a public restroom door,a sign on a public toilet
+46983,CLIP + MLP,blur,0,0,0,False,,
+46983,ViLT,blur,0,0,0,False,,
+46983,BLIP Caption + BERT,blur,0,1,0,True,a baby in a diat,a baby in a black and white photo
+46983,CLIP + MLP,grayscale,0,0,0,False,,
+46983,ViLT,grayscale,0,0,0,False,,
+46983,BLIP Caption + BERT,grayscale,0,1,0,True,a baby in a diat,a baby holding a bottle of water
+46983,CLIP + MLP,darken,0,0,0,False,,
+46983,ViLT,darken,0,0,0,False,,
+46983,BLIP Caption + BERT,darken,0,1,0,True,a baby in a diat,a baby holding a cell phone in his hand
+46983,CLIP + MLP,crop,0,0,0,False,,
+46983,ViLT,crop,0,0,0,False,,
+46983,BLIP Caption + BERT,crop,0,1,0,True,a baby in a diat,a baby holding a bottle of water in his mouth
+5656,CLIP + MLP,blur,1,0,0,False,,
+5656,ViLT,blur,1,0,0,False,,
+5656,BLIP Caption + BERT,blur,1,0,0,False,a woman sitting on a chair with a dog,a woman sitting on a bench with a dog
+5656,CLIP + MLP,grayscale,1,0,0,False,,
+5656,ViLT,grayscale,1,0,0,False,,
+5656,BLIP Caption + BERT,grayscale,1,0,0,False,a woman sitting on a chair with a dog,a woman sitting on a chair with a dog
+5656,CLIP + MLP,darken,1,0,0,False,,
+5656,ViLT,darken,1,0,0,False,,
+5656,BLIP Caption + BERT,darken,1,0,0,False,a woman sitting on a chair with a dog,a woman sitting on a chair with a dog
+5656,CLIP + MLP,crop,1,0,0,False,,
+5656,ViLT,crop,1,0,0,False,,
+5656,BLIP Caption + BERT,crop,1,0,0,False,a woman sitting on a chair with a dog,a woman sitting on a chair with a dog
+98097,CLIP + MLP,blur,0,0,0,False,,
+98097,ViLT,blur,0,0,0,False,,
+98097,BLIP Caption + BERT,blur,0,0,0,False,a man in a black suit,a man in a black suit holding a sword
+98097,CLIP + MLP,grayscale,0,0,0,False,,
+98097,ViLT,grayscale,0,0,0,False,,
+98097,BLIP Caption + BERT,grayscale,0,0,0,False,a man in a black suit,a man in a suit and hat holding a large alligator
+98097,CLIP + MLP,darken,0,0,0,False,,
+98097,ViLT,darken,0,0,0,False,,
+98097,BLIP Caption + BERT,darken,0,0,0,False,a man in a black suit,a man in a black suit holding a large alligator
+98097,CLIP + MLP,crop,0,0,0,False,,
+98097,ViLT,crop,0,0,0,False,,
+98097,BLIP Caption + BERT,crop,0,0,0,False,a man in a black suit,a man in a suit and a crocodile
+93883,CLIP + MLP,blur,1,1,1,False,,
+93883,ViLT,blur,1,1,0,True,,
+93883,BLIP Caption + BERT,blur,1,0,0,False,a car is seen on the street with a camera,a car is seen through a car window
+93883,CLIP + MLP,grayscale,1,1,1,False,,
+93883,ViLT,grayscale,1,1,1,False,,
+93883,BLIP Caption + BERT,grayscale,1,0,0,False,a car is seen on the street with a camera,a car is parked in the street with a camera
+93883,CLIP + MLP,darken,1,1,1,False,,
+93883,ViLT,darken,1,1,1,False,,
+93883,BLIP Caption + BERT,darken,1,0,0,False,a car is seen on the street with a camera,a car is seen on the screen of a smartphone
+93883,CLIP + MLP,crop,1,1,1,False,,
+93883,ViLT,crop,1,1,1,False,,
+93883,BLIP Caption + BERT,crop,1,0,0,False,a car is seen on the street with a camera,a blue car is stopped at a traffic light
+2090,CLIP + MLP,blur,0,0,0,False,,
+2090,ViLT,blur,0,0,0,False,,
+2090,BLIP Caption + BERT,blur,0,0,0,False,a mountain with a sign that says mount of chid,"the cover of the book, the great adventure"
+2090,CLIP + MLP,grayscale,0,0,0,False,,
+2090,ViLT,grayscale,0,0,0,False,,
+2090,BLIP Caption + BERT,grayscale,0,0,0,False,a mountain with a sign that says mount of chid,a black and white photo of a mountain range
+2090,CLIP + MLP,darken,0,0,0,False,,
+2090,ViLT,darken,0,0,0,False,,
+2090,BLIP Caption + BERT,darken,0,0,0,False,a mountain with a sign that says mount of chid,a mountain with a black and orange background
+2090,CLIP + MLP,crop,0,0,0,False,,
+2090,ViLT,crop,0,0,0,False,,
+2090,BLIP Caption + BERT,crop,0,0,0,False,a mountain with a sign that says mount of chid,a mountain with a sign that says mount hope
+87594,CLIP + MLP,blur,1,0,0,False,,
+87594,ViLT,blur,1,0,0,False,,
+87594,BLIP Caption + BERT,blur,1,1,1,False,a man in a black jacket and a woman in a black jacket,two people are walking down the street
+87594,CLIP + MLP,grayscale,1,0,0,False,,
+87594,ViLT,grayscale,1,0,0,False,,
+87594,BLIP Caption + BERT,grayscale,1,1,1,False,a man in a black jacket and a woman in a black jacket,a man and a woman sitting on the ground
+87594,CLIP + MLP,darken,1,0,0,False,,
+87594,ViLT,darken,1,0,0,False,,
+87594,BLIP Caption + BERT,darken,1,1,0,True,a man in a black jacket and a woman in a black jacket,a man and a little girl are walking down the street
+87594,CLIP + MLP,crop,1,0,0,False,,
+87594,ViLT,crop,1,0,0,False,,
+87594,BLIP Caption + BERT,crop,1,1,0,True,a man in a black jacket and a woman in a black jacket,a man and a little girl are sitting on the ground
+73867,CLIP + MLP,blur,0,0,0,False,,
+73867,ViLT,blur,0,0,0,False,,
+73867,BLIP Caption + BERT,blur,0,0,0,False,a group of people standing around a pool,a crowd of people standing around a fire
+73867,CLIP + MLP,grayscale,0,0,0,False,,
+73867,ViLT,grayscale,0,0,0,False,,
+73867,BLIP Caption + BERT,grayscale,0,0,0,False,a group of people standing around a pool,a black and white photo of people dancing
+73867,CLIP + MLP,darken,0,0,0,False,,
+73867,ViLT,darken,0,0,0,False,,
+73867,BLIP Caption + BERT,darken,0,0,0,False,a group of people standing around a pool,a crowd of people standing around a large white pool
+73867,CLIP + MLP,crop,0,0,0,False,,
+73867,ViLT,crop,0,0,0,False,,
+73867,BLIP Caption + BERT,crop,0,0,0,False,a group of people standing around a pool,a group of people standing around a fire
+13971,CLIP + MLP,blur,0,0,0,False,,
+13971,ViLT,blur,0,0,0,False,,
+13971,BLIP Caption + BERT,blur,0,0,0,False,a wooden table with a metal latch,a wooden table with a small hole in the middle
+13971,CLIP + MLP,grayscale,0,0,0,False,,
+13971,ViLT,grayscale,0,0,0,False,,
+13971,BLIP Caption + BERT,grayscale,0,0,0,False,a wooden table with a metal latch,a close up of a wooden table with a metal latch
+13971,CLIP + MLP,darken,0,0,0,False,,
+13971,ViLT,darken,0,0,0,False,,
+13971,BLIP Caption + BERT,darken,0,0,0,False,a wooden table with a metal latch,a wooden box with a metal latch
+13971,CLIP + MLP,crop,0,0,0,False,,
+13971,ViLT,crop,0,0,0,False,,
+13971,BLIP Caption + BERT,crop,0,0,0,False,a wooden table with a metal latch,a wooden table with a metal latch
+50691,CLIP + MLP,blur,0,0,0,False,,
+50691,ViLT,blur,0,0,0,False,,
+50691,BLIP Caption + BERT,blur,0,0,0,False,a woman sitting on the floor in a living room,a woman laying on a bed with a laptop
+50691,CLIP + MLP,grayscale,0,0,0,False,,
+50691,ViLT,grayscale,0,0,0,False,,
+50691,BLIP Caption + BERT,grayscale,0,0,0,False,a woman sitting on the floor in a living room,a woman sitting on the floor in a white room
+50691,CLIP + MLP,darken,0,0,0,False,,
+50691,ViLT,darken,0,0,0,False,,
+50691,BLIP Caption + BERT,darken,0,0,0,False,a woman sitting on the floor in a living room,a woman sitting on a bed with her arms crossed
+50691,CLIP + MLP,crop,0,0,0,False,,
+50691,ViLT,crop,0,0,0,False,,
+50691,BLIP Caption + BERT,crop,0,0,0,False,a woman sitting on the floor in a living room,a woman sitting on the floor in a living room
+65144,CLIP + MLP,blur,0,0,0,False,,
+65144,ViLT,blur,0,0,0,False,,
+65144,BLIP Caption + BERT,blur,0,0,0,False,a man doing a handstant on a cobblestone,a man doing a handstant in the middle of a cobb street
+65144,CLIP + MLP,grayscale,0,0,0,False,,
+65144,ViLT,grayscale,0,0,0,False,,
+65144,BLIP Caption + BERT,grayscale,0,0,1,True,a man doing a handstant on a cobblestone,a man doing a handstant in a narrow street
+65144,CLIP + MLP,darken,0,0,0,False,,
+65144,ViLT,darken,0,0,0,False,,
+65144,BLIP Caption + BERT,darken,0,0,0,False,a man doing a handstant on a cobblestone,a man doing a handstant on a cobblestone
+65144,CLIP + MLP,crop,0,0,0,False,,
+65144,ViLT,crop,0,0,0,False,,
+65144,BLIP Caption + BERT,crop,0,0,0,False,a man doing a handstant on a cobblestone,a man doing a handstant on a cobblestone
+105394,CLIP + MLP,blur,1,0,1,True,,
+105394,ViLT,blur,1,1,1,False,,
+105394,BLIP Caption + BERT,blur,1,0,1,True,the church of the immaculate in the city of los,a building with a large white tower in the middle
+105394,CLIP + MLP,grayscale,1,0,0,False,,
+105394,ViLT,grayscale,1,1,1,False,,
+105394,BLIP Caption + BERT,grayscale,1,0,1,True,the church of the immaculate in the city of los,the church of the good shepherd
+105394,CLIP + MLP,darken,1,0,0,False,,
+105394,ViLT,darken,1,1,1,False,,
+105394,BLIP Caption + BERT,darken,1,0,1,True,the church of the immaculate in the city of los,a building with a tower
+105394,CLIP + MLP,crop,1,0,0,False,,
+105394,ViLT,crop,1,1,1,False,,
+105394,BLIP Caption + BERT,crop,1,0,1,True,the church of the immaculate in the city of los,the church of the immaculate
+70530,CLIP + MLP,blur,0,1,1,False,,
+70530,ViLT,blur,0,0,0,False,,
+70530,BLIP Caption + BERT,blur,0,0,0,False,a river running through a forest filled with trees,a view of a river and trees
+70530,CLIP + MLP,grayscale,0,1,1,False,,
+70530,ViLT,grayscale,0,0,0,False,,
+70530,BLIP Caption + BERT,grayscale,0,0,1,True,a river running through a forest filled with trees,a river in the mountains
+70530,CLIP + MLP,darken,0,1,1,False,,
+70530,ViLT,darken,0,0,0,False,,
+70530,BLIP Caption + BERT,darken,0,0,0,False,a river running through a forest filled with trees,a river running through a forest filled with trees
+70530,CLIP + MLP,crop,0,1,1,False,,
+70530,ViLT,crop,0,0,0,False,,
+70530,BLIP Caption + BERT,crop,0,0,0,False,a river running through a forest filled with trees,a stream in the middle of a forest
+91933,CLIP + MLP,blur,1,0,0,False,,
+91933,ViLT,blur,1,0,0,False,,
+91933,BLIP Caption + BERT,blur,1,0,0,False,a group of people standing in a room,a group of people standing in a room
+91933,CLIP + MLP,grayscale,1,0,0,False,,
+91933,ViLT,grayscale,1,0,0,False,,
+91933,BLIP Caption + BERT,grayscale,1,0,0,False,a group of people standing in a room,a group of people standing in a room
+91933,CLIP + MLP,darken,1,0,0,False,,
+91933,ViLT,darken,1,0,0,False,,
+91933,BLIP Caption + BERT,darken,1,0,0,False,a group of people standing in a room,a group of people standing in a room
+91933,CLIP + MLP,crop,1,0,0,False,,
+91933,ViLT,crop,1,0,0,False,,
+91933,BLIP Caption + BERT,crop,1,0,0,False,a group of people standing in a room,a group of people standing in a room
+8975,CLIP + MLP,blur,0,0,0,False,,
+8975,ViLT,blur,0,1,0,True,,
+8975,BLIP Caption + BERT,blur,0,0,0,False,a bus is parked on the side of the road,a large billboard on the side of a road
+8975,CLIP + MLP,grayscale,0,0,0,False,,
+8975,ViLT,grayscale,0,1,1,False,,
+8975,BLIP Caption + BERT,grayscale,0,0,0,False,a bus is parked on the side of the road,a bus is parked on the side of the road
+8975,CLIP + MLP,darken,0,0,1,True,,
+8975,ViLT,darken,0,1,1,False,,
+8975,BLIP Caption + BERT,darken,0,0,1,True,a bus is parked on the side of the road,a large white building
+8975,CLIP + MLP,crop,0,0,0,False,,
+8975,ViLT,crop,0,1,1,False,,
+8975,BLIP Caption + BERT,crop,0,0,0,False,a bus is parked on the side of the road,a truck is parked on the side of the road
+34456,CLIP + MLP,blur,1,0,0,False,,
+34456,ViLT,blur,1,0,0,False,,
+34456,BLIP Caption + BERT,blur,1,1,0,True,a man and woman standing next to a bike,a man and woman standing next to each other people
+34456,CLIP + MLP,grayscale,1,0,0,False,,
+34456,ViLT,grayscale,1,0,0,False,,
+34456,BLIP Caption + BERT,grayscale,1,1,1,False,a man and woman standing next to a bike,a man and woman standing next to a bicycle
+34456,CLIP + MLP,darken,1,0,0,False,,
+34456,ViLT,darken,1,0,0,False,,
+34456,BLIP Caption + BERT,darken,1,1,1,False,a man and woman standing next to a bike,a man and woman standing next to a bike
+34456,CLIP + MLP,crop,1,0,0,False,,
+34456,ViLT,crop,1,0,0,False,,
+34456,BLIP Caption + BERT,crop,1,1,1,False,a man and woman standing next to a bike,a man and woman standing on a sidewalk
+24628,CLIP + MLP,blur,0,0,0,False,,
+24628,ViLT,blur,0,0,0,False,,
+24628,BLIP Caption + BERT,blur,0,0,0,False,a man in a space suit is looking through a hole,a man in a space suit is looking through a hole
+24628,CLIP + MLP,grayscale,0,0,0,False,,
+24628,ViLT,grayscale,0,0,0,False,,
+24628,BLIP Caption + BERT,grayscale,0,0,0,False,a man in a space suit is looking through a hole,a man in a space suit is looking through a hole
+24628,CLIP + MLP,darken,0,0,0,False,,
+24628,ViLT,darken,0,0,0,False,,
+24628,BLIP Caption + BERT,darken,0,0,0,False,a man in a space suit is looking through a hole,a man in a space suit is looking through a hole
+24628,CLIP + MLP,crop,0,0,0,False,,
+24628,ViLT,crop,0,0,0,False,,
+24628,BLIP Caption + BERT,crop,0,0,0,False,a man in a space suit is looking through a hole,a man in a space suit is smiling
+9792,CLIP + MLP,blur,1,0,0,False,,
+9792,ViLT,blur,1,1,1,False,,
+9792,BLIP Caption + BERT,blur,1,1,0,True,a man in a blue jacket throwing a football,a man in a uniform is running with a football
+9792,CLIP + MLP,grayscale,1,0,0,False,,
+9792,ViLT,grayscale,1,1,1,False,,
+9792,BLIP Caption + BERT,grayscale,1,1,0,True,a man in a blue jacket throwing a football,a man throwing a ball on a field
+9792,CLIP + MLP,darken,1,0,0,False,,
+9792,ViLT,darken,1,1,1,False,,
+9792,BLIP Caption + BERT,darken,1,1,1,False,a man in a blue jacket throwing a football,a man throwing a football
+9792,CLIP + MLP,crop,1,0,0,False,,
+9792,ViLT,crop,1,1,1,False,,
+9792,BLIP Caption + BERT,crop,1,1,1,False,a man in a blue jacket throwing a football,a man throwing a football
+67449,CLIP + MLP,blur,1,0,0,False,,
+67449,ViLT,blur,1,0,0,False,,
+67449,BLIP Caption + BERT,blur,1,1,1,False,a soccer player celebrating a goal,a soccer player in yellow and white uniform
+67449,CLIP + MLP,grayscale,1,0,0,False,,
+67449,ViLT,grayscale,1,0,0,False,,
+67449,BLIP Caption + BERT,grayscale,1,1,1,False,a soccer player celebrating a goal,person of germany celebrates after scoring the opening goal
+67449,CLIP + MLP,darken,1,0,0,False,,
+67449,ViLT,darken,1,0,0,False,,
+67449,BLIP Caption + BERT,darken,1,1,1,False,a soccer player celebrating a goal,a soccer player celebrating
+67449,CLIP + MLP,crop,1,0,0,False,,
+67449,ViLT,crop,1,0,0,False,,
+67449,BLIP Caption + BERT,crop,1,1,1,False,a soccer player celebrating a goal,brazil ' s neer celebrates after scoring a goal against spain
+50645,CLIP + MLP,blur,0,0,0,False,,
+50645,ViLT,blur,0,0,0,False,,
+50645,BLIP Caption + BERT,blur,0,0,0,False,a man holding a sign in front of a tank,a man holding a sign in front of a plane
+50645,CLIP + MLP,grayscale,0,0,0,False,,
+50645,ViLT,grayscale,0,0,0,False,,
+50645,BLIP Caption + BERT,grayscale,0,0,0,False,a man holding a sign in front of a tank,a man sitting on the back of a plane holding a sign
+50645,CLIP + MLP,darken,0,0,0,False,,
+50645,ViLT,darken,0,0,0,False,,
+50645,BLIP Caption + BERT,darken,0,0,0,False,a man holding a sign in front of a tank,a man holding a sign in front of a plane
+50645,CLIP + MLP,crop,0,0,0,False,,
+50645,ViLT,crop,0,0,0,False,,
+50645,BLIP Caption + BERT,crop,0,0,0,False,a man holding a sign in front of a tank,a man holding a sign in front of a plane
+41327,CLIP + MLP,blur,1,0,0,False,,
+41327,ViLT,blur,1,0,0,False,,
+41327,BLIP Caption + BERT,blur,1,1,1,False,a man is working in a sand pile,a man in a red shirt is standing on a hill
+41327,CLIP + MLP,grayscale,1,0,0,False,,
+41327,ViLT,grayscale,1,0,0,False,,
+41327,BLIP Caption + BERT,grayscale,1,1,1,False,a man is working in a sand pile,a man is throwing sand into the air
+41327,CLIP + MLP,darken,1,0,0,False,,
+41327,ViLT,darken,1,0,0,False,,
+41327,BLIP Caption + BERT,darken,1,1,1,False,a man is working in a sand pile,a man is shoveling sand from a pile
+41327,CLIP + MLP,crop,1,0,0,False,,
+41327,ViLT,crop,1,0,0,False,,
+41327,BLIP Caption + BERT,crop,1,1,1,False,a man is working in a sand pile,a man is pouring sand into a pile
+24938,CLIP + MLP,blur,1,1,1,False,,
+24938,ViLT,blur,1,1,1,False,,
+24938,BLIP Caption + BERT,blur,1,0,0,False,a group of people walking down a street,a group of people walking across a street
+24938,CLIP + MLP,grayscale,1,1,1,False,,
+24938,ViLT,grayscale,1,1,1,False,,
+24938,BLIP Caption + BERT,grayscale,1,0,0,False,a group of people walking down a street,a group of people walking down the street
+24938,CLIP + MLP,darken,1,1,1,False,,
+24938,ViLT,darken,1,1,1,False,,
+24938,BLIP Caption + BERT,darken,1,0,0,False,a group of people walking down a street,a group of people walking down a street
+24938,CLIP + MLP,crop,1,1,1,False,,
+24938,ViLT,crop,1,1,1,False,,
+24938,BLIP Caption + BERT,crop,1,0,0,False,a group of people walking down a street,a group of people walking down a street
+9874,CLIP + MLP,blur,0,0,0,False,,
+9874,ViLT,blur,0,0,0,False,,
+9874,BLIP Caption + BERT,blur,0,0,0,False,a man and woman are standing in front of a lake,a man and woman standing next to a lake
+9874,CLIP + MLP,grayscale,0,0,0,False,,
+9874,ViLT,grayscale,0,0,0,False,,
+9874,BLIP Caption + BERT,grayscale,0,0,0,False,a man and woman are standing in front of a lake,a couple walking down a path in the mountains
+9874,CLIP + MLP,darken,0,0,0,False,,
+9874,ViLT,darken,0,0,0,False,,
+9874,BLIP Caption + BERT,darken,0,0,0,False,a man and woman are standing in front of a lake,a couple taking a picture of themselves in the mountains
+9874,CLIP + MLP,crop,0,0,0,False,,
+9874,ViLT,crop,0,0,0,False,,
+9874,BLIP Caption + BERT,crop,0,0,0,False,a man and woman are standing in front of a lake,a couple standing next to a river
+55518,CLIP + MLP,blur,1,0,0,False,,
+55518,ViLT,blur,1,0,0,False,,
+55518,BLIP Caption + BERT,blur,1,1,0,True,a woman jumping in the air on a balance beam,a girl is jumping in the air on a tram tram
+55518,CLIP + MLP,grayscale,1,0,0,False,,
+55518,ViLT,grayscale,1,0,0,False,,
+55518,BLIP Caption + BERT,grayscale,1,1,0,True,a woman jumping in the air on a balance beam,a woman is doing a trick on the balance beam
+55518,CLIP + MLP,darken,1,0,0,False,,
+55518,ViLT,darken,1,0,0,False,,
+55518,BLIP Caption + BERT,darken,1,1,1,False,a woman jumping in the air on a balance beam,a woman doing a trick on a balance beam
+55518,CLIP + MLP,crop,1,0,0,False,,
+55518,ViLT,crop,1,0,0,False,,
+55518,BLIP Caption + BERT,crop,1,1,0,True,a woman jumping in the air on a balance beam,a girl is doing a trick on the balance beam
+103989,CLIP + MLP,blur,1,0,0,False,,
+103989,ViLT,blur,1,1,0,True,,
+103989,BLIP Caption + BERT,blur,1,0,0,False,a woman standing in front of a television,a television set with a man on the screen
+103989,CLIP + MLP,grayscale,1,0,0,False,,
+103989,ViLT,grayscale,1,1,0,True,,
+103989,BLIP Caption + BERT,grayscale,1,0,1,True,a woman standing in front of a television,a band playing on stage with a man in the background
+103989,CLIP + MLP,darken,1,0,0,False,,
+103989,ViLT,darken,1,1,0,True,,
+103989,BLIP Caption + BERT,darken,1,0,0,False,a woman standing in front of a television,a woman standing in front of a television
+103989,CLIP + MLP,crop,1,0,0,False,,
+103989,ViLT,crop,1,1,0,True,,
+103989,BLIP Caption + BERT,crop,1,0,0,False,a woman standing in front of a television,a woman standing in front of a television
+63163,CLIP + MLP,blur,1,0,0,False,,
+63163,ViLT,blur,1,1,0,True,,
+63163,BLIP Caption + BERT,blur,1,0,0,False,a woman in a dress is standing on a stage,a woman in a white dress is walking down the runway
+63163,CLIP + MLP,grayscale,1,0,0,False,,
+63163,ViLT,grayscale,1,1,0,True,,
+63163,BLIP Caption + BERT,grayscale,1,0,0,False,a woman in a dress is standing on a stage,a woman in a dress sings into a microphone
+63163,CLIP + MLP,darken,1,0,0,False,,
+63163,ViLT,darken,1,1,1,False,,
+63163,BLIP Caption + BERT,darken,1,0,0,False,a woman in a dress is standing on a stage,a woman in a dress is singing into a microphone
+63163,CLIP + MLP,crop,1,0,0,False,,
+63163,ViLT,crop,1,1,0,True,,
+63163,BLIP Caption + BERT,crop,1,0,0,False,a woman in a dress is standing on a stage,a woman in a dress singing into a microphone
+67504,CLIP + MLP,blur,0,0,0,False,,
+67504,ViLT,blur,0,0,0,False,,
+67504,BLIP Caption + BERT,blur,0,0,0,False,a man standing in front of a gate,a man walking past a gate with a sign that reads ' death row '
+67504,CLIP + MLP,grayscale,0,0,0,False,,
+67504,ViLT,grayscale,0,0,0,False,,
+67504,BLIP Caption + BERT,grayscale,0,0,0,False,a man standing in front of a gate,a man standing in front of a gate
+67504,CLIP + MLP,darken,0,0,0,False,,
+67504,ViLT,darken,0,0,0,False,,
+67504,BLIP Caption + BERT,darken,0,0,0,False,a man standing in front of a gate,a man walking down a street past a building
+67504,CLIP + MLP,crop,0,0,0,False,,
+67504,ViLT,crop,0,0,0,False,,
+67504,BLIP Caption + BERT,crop,0,0,0,False,a man standing in front of a gate,a man standing in front of a gate
+58531,CLIP + MLP,blur,0,0,0,False,,
+58531,ViLT,blur,0,0,0,False,,
+58531,BLIP Caption + BERT,blur,0,0,0,False,a group of children playing video games on a large screen,a group of people sitting in an office
+58531,CLIP + MLP,grayscale,0,0,0,False,,
+58531,ViLT,grayscale,0,0,0,False,,
+58531,BLIP Caption + BERT,grayscale,0,0,0,False,a group of children playing video games on a large screen,a group of people sitting at desks in an office
+58531,CLIP + MLP,darken,0,0,0,False,,
+58531,ViLT,darken,0,0,0,False,,
+58531,BLIP Caption + BERT,darken,0,0,0,False,a group of children playing video games on a large screen,a group of people sitting in a room
+58531,CLIP + MLP,crop,0,0,0,False,,
+58531,ViLT,crop,0,0,0,False,,
+58531,BLIP Caption + BERT,crop,0,0,0,False,a group of children playing video games on a large screen,a group of children playing a video game
+9487,CLIP + MLP,blur,0,0,0,False,,
+9487,ViLT,blur,0,0,0,False,,
+9487,BLIP Caption + BERT,blur,0,1,0,True,the fate of the furious,a man in a car with his hand on the steering
+9487,CLIP + MLP,grayscale,0,0,0,False,,
+9487,ViLT,grayscale,0,0,0,False,,
+9487,BLIP Caption + BERT,grayscale,0,1,0,True,the fate of the furious,a man in a car with his hand on the steering
+9487,CLIP + MLP,darken,0,0,0,False,,
+9487,ViLT,darken,0,0,0,False,,
+9487,BLIP Caption + BERT,darken,0,1,0,True,the fate of the furious,a man in a car with his hand on the steering
+9487,CLIP + MLP,crop,0,0,0,False,,
+9487,ViLT,crop,0,0,0,False,,
+9487,BLIP Caption + BERT,crop,0,1,0,True,the fate of the furious,a man in a car looking at the camera
+66035,CLIP + MLP,blur,1,0,0,False,,
+66035,ViLT,blur,1,0,0,False,,
+66035,BLIP Caption + BERT,blur,1,0,0,False,a group of stuffed animals sitting on the floor,a large room with many people sitting around
+66035,CLIP + MLP,grayscale,1,0,0,False,,
+66035,ViLT,grayscale,1,0,0,False,,
+66035,BLIP Caption + BERT,grayscale,1,0,0,False,a group of stuffed animals sitting on the floor,a group of people sitting on the floor
+66035,CLIP + MLP,darken,1,0,0,False,,
+66035,ViLT,darken,1,0,0,False,,
+66035,BLIP Caption + BERT,darken,1,0,0,False,a group of stuffed animals sitting on the floor,a large room with stuffed animals and people
+66035,CLIP + MLP,crop,1,0,0,False,,
+66035,ViLT,crop,1,0,0,False,,
+66035,BLIP Caption + BERT,crop,1,0,0,False,a group of stuffed animals sitting on the floor,a group of stuffed animals sitting on the floor
+103671,CLIP + MLP,blur,0,0,0,False,,
+103671,ViLT,blur,0,0,0,False,,
+103671,BLIP Caption + BERT,blur,0,0,0,False,a cat playing with rubber ducks,a cat playing with rubber ducks on the floor
+103671,CLIP + MLP,grayscale,0,0,0,False,,
+103671,ViLT,grayscale,0,0,0,False,,
+103671,BLIP Caption + BERT,grayscale,0,0,0,False,a cat playing with rubber ducks,a cat sitting on the floor with a bunch of ducks
+103671,CLIP + MLP,darken,0,0,0,False,,
+103671,ViLT,darken,0,0,0,False,,
+103671,BLIP Caption + BERT,darken,0,0,0,False,a cat playing with rubber ducks,a cat playing with rubber ducks in a room
+103671,CLIP + MLP,crop,0,0,0,False,,
+103671,ViLT,crop,0,0,0,False,,
+103671,BLIP Caption + BERT,crop,0,0,0,False,a cat playing with rubber ducks,a cat sitting on the floor
+54319,CLIP + MLP,blur,1,0,0,False,,
+54319,ViLT,blur,1,0,0,False,,
+54319,BLIP Caption + BERT,blur,1,0,0,False,a man holding a flag and a small flag,a man holding an umbrella in front of a house
+54319,CLIP + MLP,grayscale,1,0,0,False,,
+54319,ViLT,grayscale,1,0,0,False,,
+54319,BLIP Caption + BERT,grayscale,1,0,0,False,a man holding a flag and a small flag,a man standing in front of a house
+54319,CLIP + MLP,darken,1,0,0,False,,
+54319,ViLT,darken,1,0,0,False,,
+54319,BLIP Caption + BERT,darken,1,0,1,True,a man holding a flag and a small flag,a man holding a flag
+54319,CLIP + MLP,crop,1,0,0,False,,
+54319,ViLT,crop,1,0,0,False,,
+54319,BLIP Caption + BERT,crop,1,0,1,True,a man holding a flag and a small flag,a man in a striped shirt
+47196,CLIP + MLP,blur,0,0,0,False,,
+47196,ViLT,blur,0,0,0,False,,
+47196,BLIP Caption + BERT,blur,0,0,0,False,a dog standing on top of a stack of pancakes,a dog standing on top of a rainbow colored rainbow
+47196,CLIP + MLP,grayscale,0,0,0,False,,
+47196,ViLT,grayscale,0,0,0,False,,
+47196,BLIP Caption + BERT,grayscale,0,0,0,False,a dog standing on top of a stack of pancakes,a dog standing on top of a moon
+47196,CLIP + MLP,darken,0,0,0,False,,
+47196,ViLT,darken,0,0,0,False,,
+47196,BLIP Caption + BERT,darken,0,0,0,False,a dog standing on top of a stack of pancakes,a dog standing on top of a rainbow colored rainbow
+47196,CLIP + MLP,crop,0,0,0,False,,
+47196,ViLT,crop,0,0,0,False,,
+47196,BLIP Caption + BERT,crop,0,0,0,False,a dog standing on top of a stack of pancakes,a dog standing on top of a stack of pancakes
+52794,CLIP + MLP,blur,1,0,0,False,,
+52794,ViLT,blur,1,1,1,False,,
+52794,BLIP Caption + BERT,blur,1,0,0,False,the moon is seen in the sky above a house,the moon is seen in the sky above a tree
+52794,CLIP + MLP,grayscale,1,0,0,False,,
+52794,ViLT,grayscale,1,1,1,False,,
+52794,BLIP Caption + BERT,grayscale,1,0,0,False,the moon is seen in the sky above a house,a black and white photo of a moon
+52794,CLIP + MLP,darken,1,0,0,False,,
+52794,ViLT,darken,1,1,1,False,,
+52794,BLIP Caption + BERT,darken,1,0,0,False,the moon is seen in the sky above a house,the moon is seen in the sky above a house
+52794,CLIP + MLP,crop,1,0,0,False,,
+52794,ViLT,crop,1,1,1,False,,
+52794,BLIP Caption + BERT,crop,1,0,0,False,the moon is seen in the sky above a house,the moon is seen in the sky above a city
+41881,CLIP + MLP,blur,0,0,0,False,,
+41881,ViLT,blur,0,0,0,False,,
+41881,BLIP Caption + BERT,blur,0,1,1,False,a fire in the dark,a fire burns in the dark
+41881,CLIP + MLP,grayscale,0,0,0,False,,
+41881,ViLT,grayscale,0,0,0,False,,
+41881,BLIP Caption + BERT,grayscale,0,1,1,False,a fire in the dark,a black and white photo of a fire
+41881,CLIP + MLP,darken,0,0,0,False,,
+41881,ViLT,darken,0,0,0,False,,
+41881,BLIP Caption + BERT,darken,0,1,1,False,a fire in the dark,a fire in the dark
+41881,CLIP + MLP,crop,0,0,0,False,,
+41881,ViLT,crop,0,0,0,False,,
+41881,BLIP Caption + BERT,crop,0,1,0,True,a fire in the dark,a fire on a black background
+13993,CLIP + MLP,blur,0,0,0,False,,
+13993,ViLT,blur,0,0,0,False,,
+13993,BLIP Caption + BERT,blur,0,0,0,False,a young boy in a green shirt and blue pants,a young boy in a green shirt and blue pants
+13993,CLIP + MLP,grayscale,0,0,0,False,,
+13993,ViLT,grayscale,0,0,0,False,,
+13993,BLIP Caption + BERT,grayscale,0,0,0,False,a young boy in a green shirt and blue pants,a young boy in a costume and boots
+13993,CLIP + MLP,darken,0,0,0,False,,
+13993,ViLT,darken,0,0,0,False,,
+13993,BLIP Caption + BERT,darken,0,0,0,False,a young boy in a green shirt and blue pants,a young boy in a green shirt and blue pants
+13993,CLIP + MLP,crop,0,0,0,False,,
+13993,ViLT,crop,0,0,0,False,,
+13993,BLIP Caption + BERT,crop,0,0,0,False,a young boy in a green shirt and blue pants,a young boy in a green shirt and blue pants
+100455,CLIP + MLP,blur,1,1,1,False,,
+100455,ViLT,blur,1,1,1,False,,
+100455,BLIP Caption + BERT,blur,1,0,0,False,a window with ice on it and a tree outside,a window with snow on it and a building in the background
+100455,CLIP + MLP,grayscale,1,1,1,False,,
+100455,ViLT,grayscale,1,1,1,False,,
+100455,BLIP Caption + BERT,grayscale,1,0,0,False,a window with ice on it and a tree outside,a window with a view of a snowy landscape
+100455,CLIP + MLP,darken,1,1,1,False,,
+100455,ViLT,darken,1,1,1,False,,
+100455,BLIP Caption + BERT,darken,1,0,0,False,a window with ice on it and a tree outside,a window with snow on it and a tree outside
+100455,CLIP + MLP,crop,1,1,1,False,,
+100455,ViLT,crop,1,1,1,False,,
+100455,BLIP Caption + BERT,crop,1,0,0,False,a window with ice on it and a tree outside,a tree that is in the snow
+32088,CLIP + MLP,blur,1,0,0,False,,
+32088,ViLT,blur,1,1,1,False,,
+32088,BLIP Caption + BERT,blur,1,0,0,False,a sink with a broken fae and a broken fae,a white box with a bunch of beads inside
+32088,CLIP + MLP,grayscale,1,0,0,False,,
+32088,ViLT,grayscale,1,1,1,False,,
+32088,BLIP Caption + BERT,grayscale,1,0,0,False,a sink with a broken fae and a broken fae,a sink with a bird nest in it
+32088,CLIP + MLP,darken,1,0,0,False,,
+32088,ViLT,darken,1,1,1,False,,
+32088,BLIP Caption + BERT,darken,1,0,0,False,a sink with a broken fae and a broken fae,a sink with a broken fae
+32088,CLIP + MLP,crop,1,0,0,False,,
+32088,ViLT,crop,1,1,1,False,,
+32088,BLIP Caption + BERT,crop,1,0,0,False,a sink with a broken fae and a broken fae,a sink with a bunch of nails in it
+77084,CLIP + MLP,blur,0,0,0,False,,
+77084,ViLT,blur,0,0,0,False,,
+77084,BLIP Caption + BERT,blur,0,1,1,False,a mural on the side of a building in china,a poster advertising a family ' s picnic
+77084,CLIP + MLP,grayscale,0,0,0,False,,
+77084,ViLT,grayscale,0,0,0,False,,
+77084,BLIP Caption + BERT,grayscale,0,1,1,False,a mural on the side of a building in china,a black and white photo of a woman walking past a wall with a painting of a man and a woman holding a child
+77084,CLIP + MLP,darken,0,0,0,False,,
+77084,ViLT,darken,0,0,0,False,,
+77084,BLIP Caption + BERT,darken,0,1,1,False,a mural on the side of a building in china,a painting of a woman and child walking down a street
+77084,CLIP + MLP,crop,0,0,0,False,,
+77084,ViLT,crop,0,0,0,False,,
+77084,BLIP Caption + BERT,crop,0,1,1,False,a mural on the side of a building in china,a mural on the side of a building in china
+80086,CLIP + MLP,blur,1,1,1,False,,
+80086,ViLT,blur,1,1,1,False,,
+80086,BLIP Caption + BERT,blur,1,1,0,True,a gas station with a red car parked in front,a building with a blue aw aw and a white aw aw
+80086,CLIP + MLP,grayscale,1,1,1,False,,
+80086,ViLT,grayscale,1,1,1,False,,
+80086,BLIP Caption + BERT,grayscale,1,1,0,True,a gas station with a red car parked in front,a black and white photo of a gas station
+80086,CLIP + MLP,darken,1,1,1,False,,
+80086,ViLT,darken,1,1,1,False,,
+80086,BLIP Caption + BERT,darken,1,1,1,False,a gas station with a red car parked in front,a gas station with a gas station sign
+80086,CLIP + MLP,crop,1,1,1,False,,
+80086,ViLT,crop,1,1,1,False,,
+80086,BLIP Caption + BERT,crop,1,1,1,False,a gas station with a red car parked in front,a gas station with a red car parked in front
+55383,CLIP + MLP,blur,1,0,0,False,,
+55383,ViLT,blur,1,0,0,False,,
+55383,BLIP Caption + BERT,blur,1,0,0,False,a person holding a yellow ball in their hand,a person holding a yellow ball in their hand
+55383,CLIP + MLP,grayscale,1,0,0,False,,
+55383,ViLT,grayscale,1,0,0,False,,
+55383,BLIP Caption + BERT,grayscale,1,0,0,False,a person holding a yellow ball in their hand,a person with their feet in the air
+55383,CLIP + MLP,darken,1,0,0,False,,
+55383,ViLT,darken,1,0,0,False,,
+55383,BLIP Caption + BERT,darken,1,0,0,False,a person holding a yellow ball in their hand,a person holding a yellow ball in their hand
+55383,CLIP + MLP,crop,1,0,0,False,,
+55383,ViLT,crop,1,0,0,False,,
+55383,BLIP Caption + BERT,crop,1,0,0,False,a person holding a yellow ball in their hand,a person holding a yellow ball in their hand
+52100,CLIP + MLP,blur,0,0,0,False,,
+52100,ViLT,blur,0,0,0,False,,
+52100,BLIP Caption + BERT,blur,0,0,0,False,president obama and vice mccain at the debate,president obama and vice mccain at the debate
+52100,CLIP + MLP,grayscale,0,0,0,False,,
+52100,ViLT,grayscale,0,0,0,False,,
+52100,BLIP Caption + BERT,grayscale,0,0,0,False,president obama and vice mccain at the debate,two men in suits and ties are standing on a stage
+52100,CLIP + MLP,darken,0,0,0,False,,
+52100,ViLT,darken,0,0,0,False,,
+52100,BLIP Caption + BERT,darken,0,0,0,False,president obama and vice mccain at the debate,a man in a suit
+52100,CLIP + MLP,crop,0,0,0,False,,
+52100,ViLT,crop,0,0,0,False,,
+52100,BLIP Caption + BERT,crop,0,0,0,False,president obama and vice mccain at the debate,president obama and vice mccain
+57980,CLIP + MLP,blur,0,0,0,False,,
+57980,ViLT,blur,0,0,0,False,,
+57980,BLIP Caption + BERT,blur,0,0,0,False,a man in a boat on a body of water,a man in a boat on a body of water
+57980,CLIP + MLP,grayscale,0,0,0,False,,
+57980,ViLT,grayscale,0,0,0,False,,
+57980,BLIP Caption + BERT,grayscale,0,0,0,False,a man in a boat on a body of water,a man in a boat on the water
+57980,CLIP + MLP,darken,0,0,0,False,,
+57980,ViLT,darken,0,0,0,False,,
+57980,BLIP Caption + BERT,darken,0,0,0,False,a man in a boat on a body of water,a man in a boat on a body of water
+57980,CLIP + MLP,crop,0,0,0,False,,
+57980,ViLT,crop,0,0,0,False,,
+57980,BLIP Caption + BERT,crop,0,0,0,False,a man in a boat on a body of water,a man in a red jacket is on a boat
+57826,CLIP + MLP,blur,0,0,0,False,,
+57826,ViLT,blur,0,0,0,False,,
+57826,BLIP Caption + BERT,blur,0,0,0,False,"a horse with blood on it ' s face and the words, psycho of the sea",a polar bear is standing in the snow
+57826,CLIP + MLP,grayscale,0,0,0,False,,
+57826,ViLT,grayscale,0,0,0,False,,
+57826,BLIP Caption + BERT,grayscale,0,0,0,False,"a horse with blood on it ' s face and the words, psycho of the sea",a black and white drawing of a horse in water
+57826,CLIP + MLP,darken,0,0,0,False,,
+57826,ViLT,darken,0,0,0,False,,
+57826,BLIP Caption + BERT,darken,0,0,0,False,"a horse with blood on it ' s face and the words, psycho of the sea","a black horse with blood on it ' s face and the words, psycho of the sea"
+57826,CLIP + MLP,crop,0,0,0,False,,
+57826,ViLT,crop,0,0,0,False,,
+57826,BLIP Caption + BERT,crop,0,0,0,False,"a horse with blood on it ' s face and the words, psycho of the sea",a horse with blood on it ' s face
+49044,CLIP + MLP,blur,0,0,0,False,,
+49044,ViLT,blur,0,0,0,False,,
+49044,BLIP Caption + BERT,blur,0,0,0,False,a man in a white tank top and black pants,a man in a white tank top standing in front of a plane
+49044,CLIP + MLP,grayscale,0,0,0,False,,
+49044,ViLT,grayscale,0,0,0,False,,
+49044,BLIP Caption + BERT,grayscale,0,0,0,False,a man in a white tank top and black pants,a man in a white tank top and black pants
+49044,CLIP + MLP,darken,0,0,0,False,,
+49044,ViLT,darken,0,0,0,False,,
+49044,BLIP Caption + BERT,darken,0,0,0,False,a man in a white tank top and black pants,a man in a white tank top standing next to a plane
+49044,CLIP + MLP,crop,0,0,0,False,,
+49044,ViLT,crop,0,0,0,False,,
+49044,BLIP Caption + BERT,crop,0,0,0,False,a man in a white tank top and black pants,a man in a white tank top and a hat
+46404,CLIP + MLP,blur,1,0,0,False,,
+46404,ViLT,blur,1,0,0,False,,
+46404,BLIP Caption + BERT,blur,1,0,0,False,a street with cars and buildings in the background,a city with tall buildings and a blue sky
+46404,CLIP + MLP,grayscale,1,0,0,False,,
+46404,ViLT,grayscale,1,0,0,False,,
+46404,BLIP Caption + BERT,grayscale,1,0,0,False,a street with cars and buildings in the background,a black and white photo of a city
+46404,CLIP + MLP,darken,1,0,0,False,,
+46404,ViLT,darken,1,0,0,False,,
+46404,BLIP Caption + BERT,darken,1,0,0,False,a street with cars and buildings in the background,a city street with tall buildings and a blue sky
+46404,CLIP + MLP,crop,1,0,0,False,,
+46404,ViLT,crop,1,0,0,False,,
+46404,BLIP Caption + BERT,crop,1,0,0,False,a street with cars and buildings in the background,a tall building with a green spire on top
+32489,CLIP + MLP,blur,1,1,1,False,,
+32489,ViLT,blur,1,0,0,False,,
+32489,BLIP Caption + BERT,blur,1,0,0,False,a car is on fire in the middle of a parking lot,a car is on fire on the road
+32489,CLIP + MLP,grayscale,1,1,1,False,,
+32489,ViLT,grayscale,1,0,0,False,,
+32489,BLIP Caption + BERT,grayscale,1,0,0,False,a car is on fire in the middle of a parking lot,a car is on the side of the road with smoke coming out of it
+32489,CLIP + MLP,darken,1,1,1,False,,
+32489,ViLT,darken,1,0,0,False,,
+32489,BLIP Caption + BERT,darken,1,0,0,False,a car is on fire in the middle of a parking lot,a car is on fire in the middle of the road
+32489,CLIP + MLP,crop,1,1,1,False,,
+32489,ViLT,crop,1,0,0,False,,
+32489,BLIP Caption + BERT,crop,1,0,0,False,a car is on fire in the middle of a parking lot,a car is on fire on the side of the road
+77158,CLIP + MLP,blur,1,0,0,False,,
+77158,ViLT,blur,1,0,0,False,,
+77158,BLIP Caption + BERT,blur,1,0,0,False,a man and woman standing in an airport,a group of people standing around a room
+77158,CLIP + MLP,grayscale,1,0,0,False,,
+77158,ViLT,grayscale,1,0,0,False,,
+77158,BLIP Caption + BERT,grayscale,1,0,0,False,a man and woman standing in an airport,two people standing in an airport terminal
+77158,CLIP + MLP,darken,1,0,0,False,,
+77158,ViLT,darken,1,0,0,False,,
+77158,BLIP Caption + BERT,darken,1,0,0,False,a man and woman standing in an airport,two people standing in an airport terminal
+77158,CLIP + MLP,crop,1,0,0,False,,
+77158,ViLT,crop,1,0,0,False,,
+77158,BLIP Caption + BERT,crop,1,0,0,False,a man and woman standing in an airport,a man and woman standing in an airport
+76453,CLIP + MLP,blur,0,0,0,False,,
+76453,ViLT,blur,0,0,0,False,,
+76453,BLIP Caption + BERT,blur,0,0,0,False,"a cartoon character with a gun and a capt that reads, ` ` ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' '",the logo for the company
+76453,CLIP + MLP,grayscale,0,0,0,False,,
+76453,ViLT,grayscale,0,0,0,False,,
+76453,BLIP Caption + BERT,grayscale,0,0,1,True,"a cartoon character with a gun and a capt that reads, ` ` ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' '","a cartoon character with a gun and a capt that says, ` ` ' '"
+76453,CLIP + MLP,darken,0,0,0,False,,
+76453,ViLT,darken,0,0,0,False,,
+76453,BLIP Caption + BERT,darken,0,0,0,False,"a cartoon character with a gun and a capt that reads, ` ` ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' '","a cartoon character with a gun and a text that reads, ' she got you down with me '"
+76453,CLIP + MLP,crop,0,0,0,False,,
+76453,ViLT,crop,0,0,0,False,,
+76453,BLIP Caption + BERT,crop,0,0,1,True,"a cartoon character with a gun and a capt that reads, ` ` ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' '","a cartoon character with a gun and a capt that says, ` ` ' '"
+85297,CLIP + MLP,blur,0,0,0,False,,
+85297,ViLT,blur,0,0,0,False,,
+85297,BLIP Caption + BERT,blur,0,1,1,False,two men in cowboy hats hugging each other men,a man and woman in hats are standing together
+85297,CLIP + MLP,grayscale,0,0,0,False,,
+85297,ViLT,grayscale,0,0,0,False,,
+85297,BLIP Caption + BERT,grayscale,0,1,1,False,two men in cowboy hats hugging each other men,"person and person in the wild bunch, person, person, person, person, person, person, person, person, person"
+85297,CLIP + MLP,darken,0,0,0,False,,
+85297,ViLT,darken,0,0,0,False,,
+85297,BLIP Caption + BERT,darken,0,1,1,False,two men in cowboy hats hugging each other men,a man in a cowboy hat hugging another man
+85297,CLIP + MLP,crop,0,0,0,False,,
+85297,ViLT,crop,0,0,0,False,,
+85297,BLIP Caption + BERT,crop,0,1,1,False,two men in cowboy hats hugging each other men,two men in cowboy hats hugging each other men
+77026,CLIP + MLP,blur,1,1,1,False,,
+77026,ViLT,blur,1,1,1,False,,
+77026,BLIP Caption + BERT,blur,1,0,0,False,a bunch of yellow flowers growing on a wooden fence,a small bird sitting on top of a wooden post
+77026,CLIP + MLP,grayscale,1,1,1,False,,
+77026,ViLT,grayscale,1,1,1,False,,
+77026,BLIP Caption + BERT,grayscale,1,0,1,True,a bunch of yellow flowers growing on a wooden fence,a black and white photo of flowers in a garden
+77026,CLIP + MLP,darken,1,1,1,False,,
+77026,ViLT,darken,1,1,1,False,,
+77026,BLIP Caption + BERT,darken,1,0,1,True,a bunch of yellow flowers growing on a wooden fence,a yellow flower in the garden
+77026,CLIP + MLP,crop,1,1,1,False,,
+77026,ViLT,crop,1,1,1,False,,
+77026,BLIP Caption + BERT,crop,1,0,0,False,a bunch of yellow flowers growing on a wooden fence,a small yellow flower growing in the ground
+66040,CLIP + MLP,blur,1,1,1,False,,
+66040,ViLT,blur,1,1,0,True,,
+66040,BLIP Caption + BERT,blur,1,0,0,False,a black and white photograph of a man in a suit,a display with two papers and a picture of a man
+66040,CLIP + MLP,grayscale,1,1,1,False,,
+66040,ViLT,grayscale,1,1,1,False,,
+66040,BLIP Caption + BERT,grayscale,1,0,0,False,a black and white photograph of a man in a suit,a black and white photo of a man in a suit
+66040,CLIP + MLP,darken,1,1,1,False,,
+66040,ViLT,darken,1,1,1,False,,
+66040,BLIP Caption + BERT,darken,1,0,0,False,a black and white photograph of a man in a suit,a framed photograph of a man in a suit
+66040,CLIP + MLP,crop,1,1,1,False,,
+66040,ViLT,crop,1,1,1,False,,
+66040,BLIP Caption + BERT,crop,1,0,0,False,a black and white photograph of a man in a suit,a letter and a photograph of a man
+63638,CLIP + MLP,blur,1,1,1,False,,
+63638,ViLT,blur,1,0,0,False,,
+63638,BLIP Caption + BERT,blur,1,0,0,False,a man in a black shirt and leather vest,a man in a black shirt is standing in front of a yellow wall
+63638,CLIP + MLP,grayscale,1,1,1,False,,
+63638,ViLT,grayscale,1,0,0,False,,
+63638,BLIP Caption + BERT,grayscale,1,0,0,False,a man in a black shirt and leather vest,a man in a black and white photo
+63638,CLIP + MLP,darken,1,1,1,False,,
+63638,ViLT,darken,1,0,0,False,,
+63638,BLIP Caption + BERT,darken,1,0,0,False,a man in a black shirt and leather vest,a man in a black shirt and leather vest
+63638,CLIP + MLP,crop,1,1,1,False,,
+63638,ViLT,crop,1,0,0,False,,
+63638,BLIP Caption + BERT,crop,1,0,1,True,a man in a black shirt and leather vest,a man in a black jacket and a yellow shirt
+29626,CLIP + MLP,blur,0,0,0,False,,
+29626,ViLT,blur,0,0,0,False,,
+29626,BLIP Caption + BERT,blur,0,0,1,True,a plate with a small pie on it,a plate of food and a cup of coffee
+29626,CLIP + MLP,grayscale,0,0,0,False,,
+29626,ViLT,grayscale,0,0,0,False,,
+29626,BLIP Caption + BERT,grayscale,0,0,0,False,a plate with a small pie on it,a plate with a dessert on it
+29626,CLIP + MLP,darken,0,0,0,False,,
+29626,ViLT,darken,0,0,0,False,,
+29626,BLIP Caption + BERT,darken,0,0,1,True,a plate with a small pie on it,a plate of food on a wooden table
+29626,CLIP + MLP,crop,0,0,0,False,,
+29626,ViLT,crop,0,0,0,False,,
+29626,BLIP Caption + BERT,crop,0,0,0,False,a plate with a small pie on it,a plate with a small pie on it
+80584,CLIP + MLP,blur,1,0,0,False,,
+80584,ViLT,blur,1,0,0,False,,
+80584,BLIP Caption + BERT,blur,1,0,0,False,the text on the front of the poster is a black and white image of a man with a gun,"the cover of the book, the art of the modern age"
+80584,CLIP + MLP,grayscale,1,0,0,False,,
+80584,ViLT,grayscale,1,0,0,False,,
+80584,BLIP Caption + BERT,grayscale,1,0,0,False,the text on the front of the poster is a black and white image of a man with a gun,"the text on the back of the card reads, ` ` '"
+80584,CLIP + MLP,darken,1,0,0,False,,
+80584,ViLT,darken,1,0,0,False,,
+80584,BLIP Caption + BERT,darken,1,0,0,False,the text on the front of the poster is a black and white image of a man with a gun,the menu for the game
+80584,CLIP + MLP,crop,1,0,0,False,,
+80584,ViLT,crop,1,0,0,False,,
+80584,BLIP Caption + BERT,crop,1,0,1,True,the text on the front of the poster is a black and white image of a man with a gun,a flyer for a business meeting
+26675,CLIP + MLP,blur,1,0,0,False,,
+26675,ViLT,blur,1,0,0,False,,
+26675,BLIP Caption + BERT,blur,1,0,0,False,a man and woman taking a picture of themselves,a man and woman hug in a hallway
+26675,CLIP + MLP,grayscale,1,0,0,False,,
+26675,ViLT,grayscale,1,0,0,False,,
+26675,BLIP Caption + BERT,grayscale,1,0,0,False,a man and woman taking a picture of themselves,a man and woman standing in front of a mirror
+26675,CLIP + MLP,darken,1,0,0,False,,
+26675,ViLT,darken,1,0,0,False,,
+26675,BLIP Caption + BERT,darken,1,0,0,False,a man and woman taking a picture of themselves,a man and woman taking a picture of a man and woman
+26675,CLIP + MLP,crop,1,0,0,False,,
+26675,ViLT,crop,1,0,0,False,,
+26675,BLIP Caption + BERT,crop,1,0,0,False,a man and woman taking a picture of themselves,a man and woman taking a picture of themselves
+24320,CLIP + MLP,blur,0,1,1,False,,
+24320,ViLT,blur,0,0,0,False,,
+24320,BLIP Caption + BERT,blur,0,0,0,False,a red speaker sitting on top of a car,a pink toy sitting on top of a table
+24320,CLIP + MLP,grayscale,0,1,1,False,,
+24320,ViLT,grayscale,0,0,0,False,,
+24320,BLIP Caption + BERT,grayscale,0,0,0,False,a red speaker sitting on top of a car,the interior of a car with a speaker system
+24320,CLIP + MLP,darken,0,1,1,False,,
+24320,ViLT,darken,0,0,0,False,,
+24320,BLIP Caption + BERT,darken,0,0,0,False,a red speaker sitting on top of a car,a red robot sitting in a car
+24320,CLIP + MLP,crop,0,1,1,False,,
+24320,ViLT,crop,0,0,0,False,,
+24320,BLIP Caption + BERT,crop,0,0,0,False,a red speaker sitting on top of a car,a man in a black shirt and a red robot mask
+63949,CLIP + MLP,blur,1,0,0,False,,
+63949,ViLT,blur,1,1,0,True,,
+63949,BLIP Caption + BERT,blur,1,1,1,False,the new york times website,a website with a large screen and a large screen
+63949,CLIP + MLP,grayscale,1,0,0,False,,
+63949,ViLT,grayscale,1,1,0,True,,
+63949,BLIP Caption + BERT,grayscale,1,1,1,False,the new york times website,the new york times website
+63949,CLIP + MLP,darken,1,0,0,False,,
+63949,ViLT,darken,1,1,0,True,,
+63949,BLIP Caption + BERT,darken,1,1,1,False,the new york times website,the new york times website
+63949,CLIP + MLP,crop,1,0,0,False,,
+63949,ViLT,crop,1,1,0,True,,
+63949,BLIP Caption + BERT,crop,1,1,1,False,the new york times website,the website for the new york times
+48099,CLIP + MLP,blur,0,0,0,False,,
+48099,ViLT,blur,0,0,0,False,,
+48099,BLIP Caption + BERT,blur,0,0,0,False,a young boy stands in front of a burning house,a young boy stands in front of a burning house
+48099,CLIP + MLP,grayscale,0,0,0,False,,
+48099,ViLT,grayscale,0,0,0,False,,
+48099,BLIP Caption + BERT,grayscale,0,0,0,False,a young boy stands in front of a burning house,a little girl standing in front of a house
+48099,CLIP + MLP,darken,0,0,0,False,,
+48099,ViLT,darken,0,0,0,False,,
+48099,BLIP Caption + BERT,darken,0,0,0,False,a young boy stands in front of a burning house,a young boy stands in front of a burning house
+48099,CLIP + MLP,crop,0,0,0,False,,
+48099,ViLT,crop,0,0,0,False,,
+48099,BLIP Caption + BERT,crop,0,0,0,False,a young boy stands in front of a burning house,a young boy stands in front of a burning house
+57776,CLIP + MLP,blur,0,0,0,False,,
+57776,ViLT,blur,0,0,0,False,,
+57776,BLIP Caption + BERT,blur,0,0,0,False,a woman holding a che che che che che che che che che che che che che che che che che che che che che che che che,a woman holding a stuffed animal in her hands
+57776,CLIP + MLP,grayscale,0,0,0,False,,
+57776,ViLT,grayscale,0,0,0,False,,
+57776,BLIP Caption + BERT,grayscale,0,0,0,False,a woman holding a che che che che che che che che che che che che che che che che che che che che che che che che,a woman holding a leopard in front of a crowd
+57776,CLIP + MLP,darken,0,0,0,False,,
+57776,ViLT,darken,0,0,0,False,,
+57776,BLIP Caption + BERT,darken,0,0,0,False,a woman holding a che che che che che che che che che che che che che che che che che che che che che che che che,a woman holding a cat in her hands
+57776,CLIP + MLP,crop,0,0,0,False,,
+57776,ViLT,crop,0,0,0,False,,
+57776,BLIP Caption + BERT,crop,0,0,0,False,a woman holding a che che che che che che che che che che che che che che che che che che che che che che che che,a woman holding a leopard in her hands
+55601,CLIP + MLP,blur,1,1,1,False,,
+55601,ViLT,blur,1,0,0,False,,
+55601,BLIP Caption + BERT,blur,1,0,0,False,how to use the iphone ' s settings,the text on the iphone is not visible
+55601,CLIP + MLP,grayscale,1,1,1,False,,
+55601,ViLT,grayscale,1,0,0,False,,
+55601,BLIP Caption + BERT,grayscale,1,0,0,False,how to use the iphone ' s settings,the font and font on the iphone
+55601,CLIP + MLP,darken,1,1,1,False,,
+55601,ViLT,darken,1,0,0,False,,
+55601,BLIP Caption + BERT,darken,1,0,0,False,how to use the iphone ' s settings,a screenshot of a text message
+55601,CLIP + MLP,crop,1,1,1,False,,
+55601,ViLT,crop,1,0,0,False,,
+55601,BLIP Caption + BERT,crop,1,0,0,False,how to use the iphone ' s settings,a screenshot of a person ' s hand with the text ` ` ` '
+72283,CLIP + MLP,blur,0,0,0,False,,
+72283,ViLT,blur,0,0,0,False,,
+72283,BLIP Caption + BERT,blur,0,0,0,False,a little boy is eating a chocolate covered cake,a young boy is sitting at a table with a knife and fork
+72283,CLIP + MLP,grayscale,0,0,0,False,,
+72283,ViLT,grayscale,0,0,0,False,,
+72283,BLIP Caption + BERT,grayscale,0,0,0,False,a little boy is eating a chocolate covered cake,a woman sitting at a table with a plate
+72283,CLIP + MLP,darken,0,0,0,False,,
+72283,ViLT,darken,0,0,0,False,,
+72283,BLIP Caption + BERT,darken,0,0,0,False,a little boy is eating a chocolate covered cake,a young boy is sitting at a table with a knife and fork
+72283,CLIP + MLP,crop,0,0,0,False,,
+72283,ViLT,crop,0,0,0,False,,
+72283,BLIP Caption + BERT,crop,0,0,0,False,a little boy is eating a chocolate covered cake,a young boy sitting at a table eating food
+15253,CLIP + MLP,blur,0,0,0,False,,
+15253,ViLT,blur,0,1,0,True,,
+15253,BLIP Caption + BERT,blur,0,0,0,False,a building with a large face on the side,a close up of a building with a face on it
+15253,CLIP + MLP,grayscale,0,0,0,False,,
+15253,ViLT,grayscale,0,1,1,False,,
+15253,BLIP Caption + BERT,grayscale,0,0,0,False,a building with a large face on the side,the museum of modern art in berlin
+15253,CLIP + MLP,darken,0,0,0,False,,
+15253,ViLT,darken,0,1,0,True,,
+15253,BLIP Caption + BERT,darken,0,0,0,False,a building with a large face on the side,a building with a large face on it
+15253,CLIP + MLP,crop,0,0,0,False,,
+15253,ViLT,crop,0,1,0,True,,
+15253,BLIP Caption + BERT,crop,0,0,0,False,a building with a large face on the side,the museum of sar lives in the building of the museum of sar
+81585,CLIP + MLP,blur,1,0,0,False,,
+81585,ViLT,blur,1,1,1,False,,
+81585,BLIP Caption + BERT,blur,1,0,0,False,a refrigerator filled with bottles of water and other items,a veg veg veg veg veg veg veg veg veg veg
+81585,CLIP + MLP,grayscale,1,0,0,False,,
+81585,ViLT,grayscale,1,1,1,False,,
+81585,BLIP Caption + BERT,grayscale,1,0,0,False,a refrigerator filled with bottles of water and other items,a refrigerator filled with bottles of soda
+81585,CLIP + MLP,darken,1,0,0,False,,
+81585,ViLT,darken,1,1,1,False,,
+81585,BLIP Caption + BERT,darken,1,0,0,False,a refrigerator filled with bottles of water and other items,a refrigerator filled with bottles of water and soda
+81585,CLIP + MLP,crop,1,0,0,False,,
+81585,ViLT,crop,1,1,1,False,,
+81585,BLIP Caption + BERT,crop,1,0,0,False,a refrigerator filled with bottles of water and other items,a display of bottled water bottles
+83364,CLIP + MLP,blur,1,1,1,False,,
+83364,ViLT,blur,1,1,1,False,,
+83364,BLIP Caption + BERT,blur,1,0,0,False,a street sign with a tree in the middle,a palm tree in the middle of a street
+83364,CLIP + MLP,grayscale,1,1,1,False,,
+83364,ViLT,grayscale,1,1,1,False,,
+83364,BLIP Caption + BERT,grayscale,1,0,0,False,a street sign with a tree in the middle,a stop sign in the middle of a street
+83364,CLIP + MLP,darken,1,1,1,False,,
+83364,ViLT,darken,1,1,1,False,,
+83364,BLIP Caption + BERT,darken,1,0,0,False,a street sign with a tree in the middle,a street sign in front of a house
+83364,CLIP + MLP,crop,1,1,1,False,,
+83364,ViLT,crop,1,1,1,False,,
+83364,BLIP Caption + BERT,crop,1,0,0,False,a street sign with a tree in the middle,a stop sign in the middle of a street
+94776,CLIP + MLP,blur,1,1,1,False,,
+94776,ViLT,blur,1,1,1,False,,
+94776,BLIP Caption + BERT,blur,1,0,0,False,a view of a pool and palm trees from a window,a view of a balcony from inside a house
+94776,CLIP + MLP,grayscale,1,1,1,False,,
+94776,ViLT,grayscale,1,1,1,False,,
+94776,BLIP Caption + BERT,grayscale,1,0,0,False,a view of a pool and palm trees from a window,a view of the beach from a window
+94776,CLIP + MLP,darken,1,1,1,False,,
+94776,ViLT,darken,1,1,1,False,,
+94776,BLIP Caption + BERT,darken,1,0,0,False,a view of a pool and palm trees from a window,a view of a pool and palm trees from a balcony
+94776,CLIP + MLP,crop,1,1,1,False,,
+94776,ViLT,crop,1,1,1,False,,
+94776,BLIP Caption + BERT,crop,1,0,0,False,a view of a pool and palm trees from a window,a view of a pool and a palm tree
+43085,CLIP + MLP,blur,0,0,0,False,,
+43085,ViLT,blur,0,0,0,False,,
+43085,BLIP Caption + BERT,blur,0,0,0,False,"a blue and orange image of a man with a beard and a beard, with the words, ' by",a blue and yellow painting of a man in a boat
+43085,CLIP + MLP,grayscale,0,0,0,False,,
+43085,ViLT,grayscale,0,0,0,False,,
+43085,BLIP Caption + BERT,grayscale,0,0,0,False,"a blue and orange image of a man with a beard and a beard, with the words, ' by",a black and white photo of a man with wings
+43085,CLIP + MLP,darken,0,0,0,False,,
+43085,ViLT,darken,0,0,0,False,,
+43085,BLIP Caption + BERT,darken,0,0,0,False,"a blue and orange image of a man with a beard and a beard, with the words, ' by",a blue and yellow image of a man with a sword
+43085,CLIP + MLP,crop,0,0,0,False,,
+43085,ViLT,crop,0,0,0,False,,
+43085,BLIP Caption + BERT,crop,0,0,0,False,"a blue and orange image of a man with a beard and a beard, with the words, ' by",a man in a blue shirt and hat
+71799,CLIP + MLP,blur,0,0,0,False,,
+71799,ViLT,blur,0,0,0,False,,
+71799,BLIP Caption + BERT,blur,0,0,0,False,"a black and white text that reads, ' the things you are trying to get out of your own '",a black and white photo of a man with a beard
+71799,CLIP + MLP,grayscale,0,0,0,False,,
+71799,ViLT,grayscale,0,0,0,False,,
+71799,BLIP Caption + BERT,grayscale,0,0,0,False,"a black and white text that reads, ' the things you are trying to get out of your own '","a black and white photo with the words, ` ' the things you ' ret '"
+71799,CLIP + MLP,darken,0,0,0,False,,
+71799,ViLT,darken,0,0,0,False,,
+71799,BLIP Caption + BERT,darken,0,0,0,False,"a black and white text that reads, ' the things you are trying to get out of your own '","the text reads, the language is not a language"
+71799,CLIP + MLP,crop,0,0,0,False,,
+71799,ViLT,crop,0,0,0,False,,
+71799,BLIP Caption + BERT,crop,0,0,0,False,"a black and white text that reads, ' the things you are trying to get out of your own '","a black and white photo with the words, ` ` '"
+43905,CLIP + MLP,blur,1,1,1,False,,
+43905,ViLT,blur,1,1,1,False,,
+43905,BLIP Caption + BERT,blur,1,0,0,False,a white sink with a fauced fauced fauced fauced fauced fa,a white sink with a fauced fauced fauced fauced fauced fa
+43905,CLIP + MLP,grayscale,1,1,1,False,,
+43905,ViLT,grayscale,1,1,1,False,,
+43905,BLIP Caption + BERT,grayscale,1,0,0,False,a white sink with a fauced fauced fauced fauced fauced fa,a bathroom sink with a mirror above it
+43905,CLIP + MLP,darken,1,1,1,False,,
+43905,ViLT,darken,1,1,1,False,,
+43905,BLIP Caption + BERT,darken,1,0,1,True,a white sink with a fauced fauced fauced fauced fauced fa,a sink with a fa fa fae fae fae fae fae fae fae fae fae fae fae fae fae fae fae fae fae fae fae fae fae fae
+43905,CLIP + MLP,crop,1,1,1,False,,
+43905,ViLT,crop,1,1,1,False,,
+43905,BLIP Caption + BERT,crop,1,0,0,False,a white sink with a fauced fauced fauced fauced fauced fa,a white sink with a fauced fauced fauced fauced fauced fa
+45520,CLIP + MLP,blur,1,1,1,False,,
+45520,ViLT,blur,1,1,1,False,,
+45520,BLIP Caption + BERT,blur,1,0,0,False,a small dog sitting on top of a table,a small dog sitting on top of a bed
+45520,CLIP + MLP,grayscale,1,1,1,False,,
+45520,ViLT,grayscale,1,1,1,False,,
+45520,BLIP Caption + BERT,grayscale,1,0,0,False,a small dog sitting on top of a table,a small dog sitting in a box
+45520,CLIP + MLP,darken,1,1,1,False,,
+45520,ViLT,darken,1,1,1,False,,
+45520,BLIP Caption + BERT,darken,1,0,0,False,a small dog sitting on top of a table,a small dog sitting on top of a pile of clothes
+45520,CLIP + MLP,crop,1,1,1,False,,
+45520,ViLT,crop,1,1,1,False,,
+45520,BLIP Caption + BERT,crop,1,0,0,False,a small dog sitting on top of a table,a small dog sitting on top of a blanket
+74869,CLIP + MLP,blur,0,0,0,False,,
+74869,ViLT,blur,0,1,1,False,,
+74869,BLIP Caption + BERT,blur,0,0,0,False,a woman in a white dress and a white feather,a woman in a white dress and a white feather
+74869,CLIP + MLP,grayscale,0,0,0,False,,
+74869,ViLT,grayscale,0,1,0,True,,
+74869,BLIP Caption + BERT,grayscale,0,0,0,False,a woman in a white dress and a white feather,a woman in a wedding dress is standing by a window
+74869,CLIP + MLP,darken,0,0,0,False,,
+74869,ViLT,darken,0,1,0,True,,
+74869,BLIP Caption + BERT,darken,0,0,0,False,a woman in a white dress and a white feather,a woman in a wedding dress is standing by a window
+74869,CLIP + MLP,crop,0,0,0,False,,
+74869,ViLT,crop,0,1,1,False,,
+74869,BLIP Caption + BERT,crop,0,0,0,False,a woman in a white dress and a white feather,a woman in a wedding dress holding a white feather
+32494,CLIP + MLP,blur,0,0,0,False,,
+32494,ViLT,blur,0,1,1,False,,
+32494,BLIP Caption + BERT,blur,0,0,0,False,a man in a black shirt and blue shorts is doing a squat,a man in a white shirt and black shorts is doing a trick
+32494,CLIP + MLP,grayscale,0,0,0,False,,
+32494,ViLT,grayscale,0,1,1,False,,
+32494,BLIP Caption + BERT,grayscale,0,0,0,False,a man in a black shirt and blue shorts is doing a squat,a man in a black shirt is doing a squat
+32494,CLIP + MLP,darken,0,0,0,False,,
+32494,ViLT,darken,0,1,1,False,,
+32494,BLIP Caption + BERT,darken,0,0,0,False,a man in a black shirt and blue shorts is doing a squat,a man in a white shirt and black pants is doing a squat exercise
+32494,CLIP + MLP,crop,0,0,0,False,,
+32494,ViLT,crop,0,1,1,False,,
+32494,BLIP Caption + BERT,crop,0,0,0,False,a man in a black shirt and blue shorts is doing a squat,a man in a black shirt and blue shorts is doing squat
+105508,CLIP + MLP,blur,1,0,0,False,,
+105508,ViLT,blur,1,0,0,False,,
+105508,BLIP Caption + BERT,blur,1,0,1,True,a man in a suit and tie is sitting at a table,a man in a suit and tie is making a gesture
+105508,CLIP + MLP,grayscale,1,0,0,False,,
+105508,ViLT,grayscale,1,0,0,False,,
+105508,BLIP Caption + BERT,grayscale,1,0,0,False,a man in a suit and tie is sitting at a table,a man in a suit and tie is sitting at a table
+105508,CLIP + MLP,darken,1,0,0,False,,
+105508,ViLT,darken,1,0,0,False,,
+105508,BLIP Caption + BERT,darken,1,0,0,False,a man in a suit and tie is sitting at a table,a man in a suit and tie is standing in a room
+105508,CLIP + MLP,crop,1,0,0,False,,
+105508,ViLT,crop,1,0,0,False,,
+105508,BLIP Caption + BERT,crop,1,0,0,False,a man in a suit and tie is sitting at a table,a man in a suit and tie is talking
+54568,CLIP + MLP,blur,0,0,0,False,,
+54568,ViLT,blur,0,1,1,False,,
+54568,BLIP Caption + BERT,blur,0,0,0,False,a man and woman standing next to each other people,a man and woman standing next to each other people
+54568,CLIP + MLP,grayscale,0,0,0,False,,
+54568,ViLT,grayscale,0,1,0,True,,
+54568,BLIP Caption + BERT,grayscale,0,0,0,False,a man and woman standing next to each other people,a man and woman standing next to each other people
+54568,CLIP + MLP,darken,0,0,0,False,,
+54568,ViLT,darken,0,1,1,False,,
+54568,BLIP Caption + BERT,darken,0,0,0,False,a man and woman standing next to each other people,a man in a suit
+54568,CLIP + MLP,crop,0,0,0,False,,
+54568,ViLT,crop,0,1,1,False,,
+54568,BLIP Caption + BERT,crop,0,0,0,False,a man and woman standing next to each other people,a man in a suit
+102109,CLIP + MLP,blur,0,0,0,False,,
+102109,ViLT,blur,0,0,0,False,,
+102109,BLIP Caption + BERT,blur,0,0,0,False,a dog with a harness on walking on a beach,a dog with a harness on walking on a beach
+102109,CLIP + MLP,grayscale,0,0,0,False,,
+102109,ViLT,grayscale,0,0,0,False,,
+102109,BLIP Caption + BERT,grayscale,0,0,0,False,a dog with a harness on walking on a beach,a small dog wearing a harness on a leash
+102109,CLIP + MLP,darken,0,0,0,False,,
+102109,ViLT,darken,0,0,0,False,,
+102109,BLIP Caption + BERT,darken,0,0,0,False,a dog with a harness on walking on a beach,a dog with a harness on walking on a beach
+102109,CLIP + MLP,crop,0,0,0,False,,
+102109,ViLT,crop,0,0,0,False,,
+102109,BLIP Caption + BERT,crop,0,0,0,False,a dog with a harness on walking on a beach,a dog with a harness on walking on the beach
+28953,CLIP + MLP,blur,1,1,1,False,,
+28953,ViLT,blur,1,1,1,False,,
+28953,BLIP Caption + BERT,blur,1,0,0,False,a vintage postcard with a cartoon character,a poster with a man holding a gun
+28953,CLIP + MLP,grayscale,1,1,1,False,,
+28953,ViLT,grayscale,1,1,0,True,,
+28953,BLIP Caption + BERT,grayscale,1,0,0,False,a vintage postcard with a cartoon character,a black and white photo of a man in a suit
+28953,CLIP + MLP,darken,1,1,1,False,,
+28953,ViLT,darken,1,1,1,False,,
+28953,BLIP Caption + BERT,darken,1,0,0,False,a vintage postcard with a cartoon character,a vintage postcard with a cartoon character
+28953,CLIP + MLP,crop,1,1,1,False,,
+28953,ViLT,crop,1,1,1,False,,
+28953,BLIP Caption + BERT,crop,1,0,0,False,a vintage postcard with a cartoon character,a vintage baseball card with a cartoon character
+84141,CLIP + MLP,blur,0,0,0,False,,
+84141,ViLT,blur,0,0,0,False,,
+84141,BLIP Caption + BERT,blur,0,0,0,False,a dog ' s paw is seen in the floor,a small dog is laying on the floor
+84141,CLIP + MLP,grayscale,0,0,0,False,,
+84141,ViLT,grayscale,0,0,0,False,,
+84141,BLIP Caption + BERT,grayscale,0,0,0,False,a dog ' s paw is seen in the floor,a small rock in the sand on the beach
+84141,CLIP + MLP,darken,0,0,0,False,,
+84141,ViLT,darken,0,0,0,False,,
+84141,BLIP Caption + BERT,darken,0,0,0,False,a dog ' s paw is seen in the floor,a small dog is laying on the floor
+84141,CLIP + MLP,crop,0,0,0,False,,
+84141,ViLT,crop,0,0,0,False,,
+84141,BLIP Caption + BERT,crop,0,0,0,False,a dog ' s paw is seen in the floor,a small animal that is laying on the ground
+10196,CLIP + MLP,blur,1,1,1,False,,
+10196,ViLT,blur,1,0,0,False,,
+10196,BLIP Caption + BERT,blur,1,0,0,False,a green spoon sitting on top of a wooden table,a green alien hand is seen on the back of a car
+10196,CLIP + MLP,grayscale,1,1,1,False,,
+10196,ViLT,grayscale,1,0,0,False,,
+10196,BLIP Caption + BERT,grayscale,1,0,0,False,a green spoon sitting on top of a wooden table,a spoon and fork on a metal surface
+10196,CLIP + MLP,darken,1,1,1,False,,
+10196,ViLT,darken,1,0,0,False,,
+10196,BLIP Caption + BERT,darken,1,0,0,False,a green spoon sitting on top of a wooden table,a green alien hand is seen on a metal surface
+10196,CLIP + MLP,crop,1,1,1,False,,
+10196,ViLT,crop,1,0,0,False,,
+10196,BLIP Caption + BERT,crop,1,0,0,False,a green spoon sitting on top of a wooden table,a green plastic spoon with a fork on it
+23866,CLIP + MLP,blur,0,0,0,False,,
+23866,ViLT,blur,0,0,0,False,,
+23866,BLIP Caption + BERT,blur,0,0,0,False,a plane with a pilot inside of it,a plane with a man in the cockpit
+23866,CLIP + MLP,grayscale,0,0,0,False,,
+23866,ViLT,grayscale,0,0,0,False,,
+23866,BLIP Caption + BERT,grayscale,0,0,0,False,a plane with a pilot inside of it,a plane is flying in the sky with a man inside
+23866,CLIP + MLP,darken,0,0,0,False,,
+23866,ViLT,darken,0,0,0,False,,
+23866,BLIP Caption + BERT,darken,0,0,0,False,a plane with a pilot inside of it,a plane is flying in the sky with a man in the cockpit
+23866,CLIP + MLP,crop,0,0,0,False,,
+23866,ViLT,crop,0,0,0,False,,
+23866,BLIP Caption + BERT,crop,0,0,0,False,a plane with a pilot inside of it,a plane flying through the air with a man inside
+69216,CLIP + MLP,blur,1,0,0,False,,
+69216,ViLT,blur,1,1,1,False,,
+69216,BLIP Caption + BERT,blur,1,1,1,False,a satellite image of the mississippi river,a satellite image of a mountain range
+69216,CLIP + MLP,grayscale,1,0,0,False,,
+69216,ViLT,grayscale,1,1,1,False,,
+69216,BLIP Caption + BERT,grayscale,1,1,0,True,a satellite image of the mississippi river,the river that runs through the mountains
+69216,CLIP + MLP,darken,1,0,0,False,,
+69216,ViLT,darken,1,1,1,False,,
+69216,BLIP Caption + BERT,darken,1,1,0,True,a satellite image of the mississippi river,the river from space
+69216,CLIP + MLP,crop,1,0,0,False,,
+69216,ViLT,crop,1,1,1,False,,
+69216,BLIP Caption + BERT,crop,1,1,1,False,a satellite image of the mississippi river,a satellite image of the mississippi river
+12193,CLIP + MLP,blur,0,0,0,False,,
+12193,ViLT,blur,0,0,0,False,,
+12193,BLIP Caption + BERT,blur,0,0,0,False,a man in a suit and tie holding a piece of paper,a man in a suit and tie writing on a piece of paper
+12193,CLIP + MLP,grayscale,0,0,0,False,,
+12193,ViLT,grayscale,0,0,0,False,,
+12193,BLIP Caption + BERT,grayscale,0,0,0,False,a man in a suit and tie holding a piece of paper,a man in a suit and tie holding a piece of paper
+12193,CLIP + MLP,darken,0,0,0,False,,
+12193,ViLT,darken,0,0,0,False,,
+12193,BLIP Caption + BERT,darken,0,0,0,False,a man in a suit and tie holding a piece of paper,a man in a suit and tie writing on a piece of paper
+12193,CLIP + MLP,crop,0,0,0,False,,
+12193,ViLT,crop,0,0,0,False,,
+12193,BLIP Caption + BERT,crop,0,0,0,False,a man in a suit and tie holding a piece of paper,a man in a suit and tie holding a piece of paper
+110535,CLIP + MLP,blur,1,0,0,False,,
+110535,ViLT,blur,1,1,0,True,,
+110535,BLIP Caption + BERT,blur,1,0,0,False,"a sign that says, ' water dept '",a sign that is in the grass near a building
+110535,CLIP + MLP,grayscale,1,0,0,False,,
+110535,ViLT,grayscale,1,1,1,False,,
+110535,BLIP Caption + BERT,grayscale,1,0,0,False,"a sign that says, ' water dept '",a sign that is on the side of a road
+110535,CLIP + MLP,darken,1,0,0,False,,
+110535,ViLT,darken,1,1,1,False,,
+110535,BLIP Caption + BERT,darken,1,0,0,False,"a sign that says, ' water dept '",a sign that is in the grass by a road
+110535,CLIP + MLP,crop,1,0,0,False,,
+110535,ViLT,crop,1,1,1,False,,
+110535,BLIP Caption + BERT,crop,1,0,0,False,"a sign that says, ' water dept '","a sign that says, ' haperville town hall water dept police '"
+110203,CLIP + MLP,blur,1,0,0,False,,
+110203,ViLT,blur,1,1,0,True,,
+110203,BLIP Caption + BERT,blur,1,0,0,False,a man is lying on the ground in front of police officers,a man in a black suit
+110203,CLIP + MLP,grayscale,1,0,0,False,,
+110203,ViLT,grayscale,1,1,1,False,,
+110203,BLIP Caption + BERT,grayscale,1,0,0,False,a man is lying on the ground in front of police officers,a man laying on the ground in front of a crowd
+110203,CLIP + MLP,darken,1,0,0,False,,
+110203,ViLT,darken,1,1,1,False,,
+110203,BLIP Caption + BERT,darken,1,0,1,True,a man is lying on the ground in front of police officers,a man laying on the ground
+110203,CLIP + MLP,crop,1,0,0,False,,
+110203,ViLT,crop,1,1,1,False,,
+110203,BLIP Caption + BERT,crop,1,0,0,False,a man is lying on the ground in front of police officers,a man is laying on the ground in front of a crowd
+57696,CLIP + MLP,blur,1,1,1,False,,
+57696,ViLT,blur,1,1,0,True,,
+57696,BLIP Caption + BERT,blur,1,0,0,False,a group of people sitting in a room,a large room with people sitting in chairs
+57696,CLIP + MLP,grayscale,1,1,1,False,,
+57696,ViLT,grayscale,1,1,0,True,,
+57696,BLIP Caption + BERT,grayscale,1,0,0,False,a group of people sitting in a room,a black and white photo of a crowd of people
+57696,CLIP + MLP,darken,1,1,1,False,,
+57696,ViLT,darken,1,1,0,True,,
+57696,BLIP Caption + BERT,darken,1,0,0,False,a group of people sitting in a room,a group of people sitting in a room
+57696,CLIP + MLP,crop,1,1,1,False,,
+57696,ViLT,crop,1,1,0,True,,
+57696,BLIP Caption + BERT,crop,1,0,0,False,a group of people sitting in a room,a group of people standing on a stage
+80814,CLIP + MLP,blur,1,0,0,False,,
+80814,ViLT,blur,1,1,0,True,,
+80814,BLIP Caption + BERT,blur,1,0,0,False,a man with a rad rad rad rad rad rad rad rad ra,a man with a radiac radiac radiac radiac radiac radiac radiac radiac ra
+80814,CLIP + MLP,grayscale,1,0,0,False,,
+80814,ViLT,grayscale,1,1,0,True,,
+80814,BLIP Caption + BERT,grayscale,1,0,0,False,a man with a rad rad rad rad rad rad rad rad ra,a man with a rad rad rad rad rad rad rad rad ra
+80814,CLIP + MLP,darken,1,0,0,False,,
+80814,ViLT,darken,1,1,0,True,,
+80814,BLIP Caption + BERT,darken,1,0,0,False,a man with a rad rad rad rad rad rad rad rad ra,a man with a rad rad rad rad rad rad rad rad ra
+80814,CLIP + MLP,crop,1,0,0,False,,
+80814,ViLT,crop,1,1,1,False,,
+80814,BLIP Caption + BERT,crop,1,0,0,False,a man with a rad rad rad rad rad rad rad rad ra,a man with a rad rad rad rad rad rad rad rad ra
+104025,CLIP + MLP,blur,0,0,0,False,,
+104025,ViLT,blur,0,0,0,False,,
+104025,BLIP Caption + BERT,blur,0,0,0,False,a man doing a trick on a pole,a man doing a trick on a pole
+104025,CLIP + MLP,grayscale,0,0,0,False,,
+104025,ViLT,grayscale,0,0,0,False,,
+104025,BLIP Caption + BERT,grayscale,0,0,0,False,a man doing a trick on a pole,a man doing a trick on a pole
+104025,CLIP + MLP,darken,0,0,0,False,,
+104025,ViLT,darken,0,0,0,False,,
+104025,BLIP Caption + BERT,darken,0,0,0,False,a man doing a trick on a pole,a man doing a trick on a pole
+104025,CLIP + MLP,crop,0,0,0,False,,
+104025,ViLT,crop,0,0,0,False,,
+104025,BLIP Caption + BERT,crop,0,0,0,False,a man doing a trick on a pole,a man doing a trick on a pole
+100288,CLIP + MLP,blur,0,0,0,False,,
+100288,ViLT,blur,0,0,0,False,,
+100288,BLIP Caption + BERT,blur,0,0,0,False,a baby in a yellow raft floating in the water,a baby in a yellow raft floating in a pool
+100288,CLIP + MLP,grayscale,0,0,0,False,,
+100288,ViLT,grayscale,0,0,0,False,,
+100288,BLIP Caption + BERT,grayscale,0,0,0,False,a baby in a yellow raft floating in the water,a little boy is floating in the water
+100288,CLIP + MLP,darken,0,0,0,False,,
+100288,ViLT,darken,0,0,0,False,,
+100288,BLIP Caption + BERT,darken,0,0,0,False,a baby in a yellow raft floating in the water,a baby in a pool with a toy
+100288,CLIP + MLP,crop,0,0,0,False,,
+100288,ViLT,crop,0,0,0,False,,
+100288,BLIP Caption + BERT,crop,0,0,0,False,a baby in a yellow raft floating in the water,a baby in a yellow raft floating in the water
+96748,CLIP + MLP,blur,0,0,0,False,,
+96748,ViLT,blur,0,0,0,False,,
+96748,BLIP Caption + BERT,blur,0,0,0,False,a woman in a red bra top,a woman in a red bra top and panties
+96748,CLIP + MLP,grayscale,0,0,0,False,,
+96748,ViLT,grayscale,0,0,0,False,,
+96748,BLIP Caption + BERT,grayscale,0,0,0,False,a woman in a red bra top,a woman in a bikini top and a man in a hat
+96748,CLIP + MLP,darken,0,0,0,False,,
+96748,ViLT,darken,0,0,0,False,,
+96748,BLIP Caption + BERT,darken,0,0,0,False,a woman in a red bra top,a woman in a red bra top and jeans
+96748,CLIP + MLP,crop,0,0,0,False,,
+96748,ViLT,crop,0,0,0,False,,
+96748,BLIP Caption + BERT,crop,0,0,0,False,a woman in a red bra top,a woman in a red bra top and black pants
+30268,CLIP + MLP,blur,0,0,0,False,,
+30268,ViLT,blur,0,0,0,False,,
+30268,BLIP Caption + BERT,blur,0,0,1,True,a wooden post with a bird sitting on it,a wooden fence
+30268,CLIP + MLP,grayscale,0,0,0,False,,
+30268,ViLT,grayscale,0,0,0,False,,
+30268,BLIP Caption + BERT,grayscale,0,0,0,False,a wooden post with a bird sitting on it,a cat is sitting in a tree stump
+30268,CLIP + MLP,darken,0,0,0,False,,
+30268,ViLT,darken,0,0,0,False,,
+30268,BLIP Caption + BERT,darken,0,0,0,False,a wooden post with a bird sitting on it,a bird is sitting in a wooden bowl
+30268,CLIP + MLP,crop,0,0,0,False,,
+30268,ViLT,crop,0,0,0,False,,
+30268,BLIP Caption + BERT,crop,0,0,0,False,a wooden post with a bird sitting on it,a bird sitting on a stump in a field
+67450,CLIP + MLP,blur,1,1,1,False,,
+67450,ViLT,blur,1,1,1,False,,
+67450,BLIP Caption + BERT,blur,1,0,0,False,a small leaf on a table,a small leaf on a table
+67450,CLIP + MLP,grayscale,1,1,1,False,,
+67450,ViLT,grayscale,1,1,1,False,,
+67450,BLIP Caption + BERT,grayscale,1,0,0,False,a small leaf on a table,a leaf on a table
+67450,CLIP + MLP,darken,1,1,1,False,,
+67450,ViLT,darken,1,1,1,False,,
+67450,BLIP Caption + BERT,darken,1,0,0,False,a small leaf on a table,a small leaf on a table
+67450,CLIP + MLP,crop,1,1,1,False,,
+67450,ViLT,crop,1,1,1,False,,
+67450,BLIP Caption + BERT,crop,1,0,0,False,a small leaf on a table,a spinel leaf on a table
+15840,CLIP + MLP,blur,0,0,0,False,,
+15840,ViLT,blur,0,0,0,False,,
+15840,BLIP Caption + BERT,blur,0,0,0,False,a polar bear holding blue balloons,a dog with a blue balloon floating in the sky
+15840,CLIP + MLP,grayscale,0,0,0,False,,
+15840,ViLT,grayscale,0,0,0,False,,
+15840,BLIP Caption + BERT,grayscale,0,0,0,False,a polar bear holding blue balloons,a polar bear floating in the ocean with balloons
+15840,CLIP + MLP,darken,0,0,0,False,,
+15840,ViLT,darken,0,0,0,False,,
+15840,BLIP Caption + BERT,darken,0,0,0,False,a polar bear holding blue balloons,a polar bear holding balloons in the air
+15840,CLIP + MLP,crop,0,0,0,False,,
+15840,ViLT,crop,0,0,0,False,,
+15840,BLIP Caption + BERT,crop,0,0,0,False,a polar bear holding blue balloons,a polar bear holding blue balloons in the air
+89806,CLIP + MLP,blur,0,0,0,False,,
+89806,ViLT,blur,0,0,0,False,,
+89806,BLIP Caption + BERT,blur,0,0,0,False,a dog is swimming in a pool with a money,a dog is swimming in a pool with a baby
+89806,CLIP + MLP,grayscale,0,0,0,False,,
+89806,ViLT,grayscale,0,0,0,False,,
+89806,BLIP Caption + BERT,grayscale,0,0,0,False,a dog is swimming in a pool with a money,a dog is swimming in the water with a toy
+89806,CLIP + MLP,darken,0,0,0,False,,
+89806,ViLT,darken,0,0,0,False,,
+89806,BLIP Caption + BERT,darken,0,0,0,False,a dog is swimming in a pool with a money,a dog is swimming in a pool with a dollar
+89806,CLIP + MLP,crop,0,0,0,False,,
+89806,ViLT,crop,0,0,0,False,,
+89806,BLIP Caption + BERT,crop,0,0,0,False,a dog is swimming in a pool with a money,a dog jumping into a pool with a glass of water
+76012,CLIP + MLP,blur,1,0,0,False,,
+76012,ViLT,blur,1,1,1,False,,
+76012,BLIP Caption + BERT,blur,1,0,0,False,president obama looks out the window of his home in the oval room of the white house,a man in a suit and tie standing in front of a window
+76012,CLIP + MLP,grayscale,1,0,0,False,,
+76012,ViLT,grayscale,1,1,1,False,,
+76012,BLIP Caption + BERT,grayscale,1,0,0,False,president obama looks out the window of his home in the oval room of the white house,a man in a suit standing next to a window
+76012,CLIP + MLP,darken,1,0,0,False,,
+76012,ViLT,darken,1,1,1,False,,
+76012,BLIP Caption + BERT,darken,1,0,1,True,president obama looks out the window of his home in the oval room of the white house,president person and first lady person in the oval room of the white house
+76012,CLIP + MLP,crop,1,0,0,False,,
+76012,ViLT,crop,1,1,1,False,,
+76012,BLIP Caption + BERT,crop,1,0,1,True,president obama looks out the window of his home in the oval room of the white house,president person and first lady person look out the window of the white house
+46541,CLIP + MLP,blur,1,0,0,False,,
+46541,ViLT,blur,1,1,1,False,,
+46541,BLIP Caption + BERT,blur,1,0,0,False,a man in a helmet and a dog in a bag,a man and a child are walking down the street
+46541,CLIP + MLP,grayscale,1,0,0,False,,
+46541,ViLT,grayscale,1,1,1,False,,
+46541,BLIP Caption + BERT,grayscale,1,0,0,False,a man in a helmet and a dog in a bag,a man and a woman on a motorcycle
+46541,CLIP + MLP,darken,1,0,1,True,,
+46541,ViLT,darken,1,1,1,False,,
+46541,BLIP Caption + BERT,darken,1,0,0,False,a man in a helmet and a dog in a bag,a man and a child on a scoote
+46541,CLIP + MLP,crop,1,0,0,False,,
+46541,ViLT,crop,1,1,1,False,,
+46541,BLIP Caption + BERT,crop,1,0,0,False,a man in a helmet and a dog in a bag,a man in a motorcycle helmet and helmet holding a small dog
+26841,CLIP + MLP,blur,0,0,0,False,,
+26841,ViLT,blur,0,0,0,False,,
+26841,BLIP Caption + BERT,blur,0,1,0,True,a cat with its mouth open,a cat walking across a sandy beach
+26841,CLIP + MLP,grayscale,0,0,0,False,,
+26841,ViLT,grayscale,0,0,0,False,,
+26841,BLIP Caption + BERT,grayscale,0,1,0,True,a cat with its mouth open,a cat is walking across the sand
+26841,CLIP + MLP,darken,0,0,0,False,,
+26841,ViLT,darken,0,0,0,False,,
+26841,BLIP Caption + BERT,darken,0,1,1,False,a cat with its mouth open,a cat with its mouth open and it ' s mouth open
+26841,CLIP + MLP,crop,0,0,0,False,,
+26841,ViLT,crop,0,0,0,False,,
+26841,BLIP Caption + BERT,crop,0,1,1,False,a cat with its mouth open,a cat with its mouth open and it ' s mouth open
+31408,CLIP + MLP,blur,0,0,0,False,,
+31408,ViLT,blur,0,0,0,False,,
+31408,BLIP Caption + BERT,blur,0,0,0,False,a man laying on the green algae,a man is swimming in the green algae
+31408,CLIP + MLP,grayscale,0,0,0,False,,
+31408,ViLT,grayscale,0,0,0,False,,
+31408,BLIP Caption + BERT,grayscale,0,0,0,False,a man laying on the green algae,a woman laying on the ground in a pile of sand
+31408,CLIP + MLP,darken,0,0,0,False,,
+31408,ViLT,darken,0,0,0,False,,
+31408,BLIP Caption + BERT,darken,0,0,0,False,a man laying on the green algae,a woman laying on the ground covered in green algae
+31408,CLIP + MLP,crop,0,0,0,False,,
+31408,ViLT,crop,0,0,0,False,,
+31408,BLIP Caption + BERT,crop,0,0,0,False,a man laying on the green algae,a woman is lying on a green algae
+51943,CLIP + MLP,blur,0,0,0,False,,
+51943,ViLT,blur,0,0,0,False,,
+51943,BLIP Caption + BERT,blur,0,0,0,False,a screenshot of a person looking out a window,a black and white photo of a man in a suit
+51943,CLIP + MLP,grayscale,0,0,0,False,,
+51943,ViLT,grayscale,0,0,0,False,,
+51943,BLIP Caption + BERT,grayscale,0,0,0,False,a screenshot of a person looking out a window,a woman looking out the window with a quote on it
+51943,CLIP + MLP,darken,0,0,0,False,,
+51943,ViLT,darken,0,0,0,False,,
+51943,BLIP Caption + BERT,darken,0,0,0,False,a screenshot of a person looking out a window,a screenshot of a woman looking out the window
+51943,CLIP + MLP,crop,0,0,0,False,,
+51943,ViLT,crop,0,0,0,False,,
+51943,BLIP Caption + BERT,crop,0,0,0,False,a screenshot of a person looking out a window,a man looking out the window at the view
+49548,CLIP + MLP,blur,0,0,0,False,,
+49548,ViLT,blur,0,0,0,False,,
+49548,BLIP Caption + BERT,blur,0,0,0,False,a man in a car with a tiger mask on,a woman driving a car with a cell phone in her hand
+49548,CLIP + MLP,grayscale,0,0,0,False,,
+49548,ViLT,grayscale,0,0,0,False,,
+49548,BLIP Caption + BERT,grayscale,0,0,0,False,a man in a car with a tiger mask on,a man in a car with a tiger on the windshield
+49548,CLIP + MLP,darken,0,0,0,False,,
+49548,ViLT,darken,0,0,0,False,,
+49548,BLIP Caption + BERT,darken,0,0,0,False,a man in a car with a tiger mask on,a man in a car with a tiger on the steering
+49548,CLIP + MLP,crop,0,0,0,False,,
+49548,ViLT,crop,0,0,0,False,,
+49548,BLIP Caption + BERT,crop,0,0,0,False,a man in a car with a tiger mask on,a man in a car with a tiger on the steering
+94376,CLIP + MLP,blur,1,0,0,False,,
+94376,ViLT,blur,1,1,1,False,,
+94376,BLIP Caption + BERT,blur,1,1,0,True,jars of pickled pickled pickled pickled pickled pickled pickled pickled pickled pickled pickled pickled pickled pickled pickled pickled pickled pickled pickled pickled pickled pickled pickled pickled,a bunch of bottles of olive oil
+94376,CLIP + MLP,grayscale,1,0,0,False,,
+94376,ViLT,grayscale,1,1,1,False,,
+94376,BLIP Caption + BERT,grayscale,1,1,0,True,jars of pickled pickled pickled pickled pickled pickled pickled pickled pickled pickled pickled pickled pickled pickled pickled pickled pickled pickled pickled pickled pickled pickled pickled pickled,a shelf filled with jars of food and drinks
+94376,CLIP + MLP,darken,1,0,0,False,,
+94376,ViLT,darken,1,1,1,False,,
+94376,BLIP Caption + BERT,darken,1,1,0,True,jars of pickled pickled pickled pickled pickled pickled pickled pickled pickled pickled pickled pickled pickled pickled pickled pickled pickled pickled pickled pickled pickled pickled pickled pickled,a shelf filled with jars of food and drinks
+94376,CLIP + MLP,crop,1,0,0,False,,
+94376,ViLT,crop,1,1,1,False,,
+94376,BLIP Caption + BERT,crop,1,1,1,False,jars of pickled pickled pickled pickled pickled pickled pickled pickled pickled pickled pickled pickled pickled pickled pickled pickled pickled pickled pickled pickled pickled pickled pickled pickled,jars of pickled pickled pickled pickled pickled pickled pickled pickled pickled pickled pickled pickled pickled pickled pickled pickled pickled pickled pickled pickled pickled pickled pickled pickled
+56777,CLIP + MLP,blur,1,1,1,False,,
+56777,ViLT,blur,1,1,1,False,,
+56777,BLIP Caption + BERT,blur,1,0,0,False,a person holding a glass with a liquid inside,a woman in a white shirt and black pants
+56777,CLIP + MLP,grayscale,1,1,1,False,,
+56777,ViLT,grayscale,1,1,1,False,,
+56777,BLIP Caption + BERT,grayscale,1,0,0,False,a person holding a glass with a liquid inside,a person holding a piece of ice in their hand
+56777,CLIP + MLP,darken,1,1,1,False,,
+56777,ViLT,darken,1,1,1,False,,
+56777,BLIP Caption + BERT,darken,1,0,0,False,a person holding a glass with a liquid inside,a person holding a glass with a small amount of liquid
+56777,CLIP + MLP,crop,1,1,1,False,,
+56777,ViLT,crop,1,1,1,False,,
+56777,BLIP Caption + BERT,crop,1,0,0,False,a person holding a glass with a liquid inside,a child is playing with a water bottle
+32284,CLIP + MLP,blur,0,0,0,False,,
+32284,ViLT,blur,0,0,0,False,,
+32284,BLIP Caption + BERT,blur,0,0,0,False,a man in a military uniform playing a piano,a man in a yellow suit standing next to a piano
+32284,CLIP + MLP,grayscale,0,0,0,False,,
+32284,ViLT,grayscale,0,0,0,False,,
+32284,BLIP Caption + BERT,grayscale,0,0,0,False,a man in a military uniform playing a piano,a man playing a piano in the woods
+32284,CLIP + MLP,darken,0,0,0,False,,
+32284,ViLT,darken,0,0,0,False,,
+32284,BLIP Caption + BERT,darken,0,0,0,False,a man in a military uniform playing a piano,a man in a military uniform playing a piano
+32284,CLIP + MLP,crop,0,0,0,False,,
+32284,ViLT,crop,0,0,0,False,,
+32284,BLIP Caption + BERT,crop,0,0,0,False,a man in a military uniform playing a piano,a man in a military uniform playing a piano
+73430,CLIP + MLP,blur,0,0,0,False,,
+73430,ViLT,blur,0,0,0,False,,
+73430,BLIP Caption + BERT,blur,0,0,0,False,a dog with a blue shirt and a red collar,a dog wearing a blue shirt and a red tie
+73430,CLIP + MLP,grayscale,0,0,0,False,,
+73430,ViLT,grayscale,0,0,0,False,,
+73430,BLIP Caption + BERT,grayscale,0,0,0,False,a dog with a blue shirt and a red collar,a black and white photo of a man with a beard
+73430,CLIP + MLP,darken,0,0,0,False,,
+73430,ViLT,darken,0,0,0,False,,
+73430,BLIP Caption + BERT,darken,0,0,0,False,a dog with a blue shirt and a red collar,a cartoon character with a big nose and a blue shirt
+73430,CLIP + MLP,crop,0,0,0,False,,
+73430,ViLT,crop,0,0,0,False,,
+73430,BLIP Caption + BERT,crop,0,0,0,False,a dog with a blue shirt and a red collar,a man holding a large piece of wood
+34479,CLIP + MLP,blur,1,1,1,False,,
+34479,ViLT,blur,1,0,1,True,,
+34479,BLIP Caption + BERT,blur,1,0,0,False,a wooden shelf with a metal shelf on it,a woman in a white shirt and black pants
+34479,CLIP + MLP,grayscale,1,1,1,False,,
+34479,ViLT,grayscale,1,0,0,False,,
+34479,BLIP Caption + BERT,grayscale,1,0,0,False,a wooden shelf with a metal shelf on it,a black and white photo of a chair
+34479,CLIP + MLP,darken,1,1,1,False,,
+34479,ViLT,darken,1,0,1,True,,
+34479,BLIP Caption + BERT,darken,1,0,0,False,a wooden shelf with a metal shelf on it,a wooden shelf with a metal handle on it
+34479,CLIP + MLP,crop,1,1,1,False,,
+34479,ViLT,crop,1,0,0,False,,
+34479,BLIP Caption + BERT,crop,1,0,0,False,a wooden shelf with a metal shelf on it,a black and white dog sitting on a wooden bench
+37711,CLIP + MLP,blur,1,1,1,False,,
+37711,ViLT,blur,1,1,1,False,,
+37711,BLIP Caption + BERT,blur,1,0,0,False,a light fixture on the ceiling of a house,a ceiling with a light fixture on it
+37711,CLIP + MLP,grayscale,1,1,1,False,,
+37711,ViLT,grayscale,1,1,1,False,,
+37711,BLIP Caption + BERT,grayscale,1,0,0,False,a light fixture on the ceiling of a house,a black and white photo of a window and a chandel
+37711,CLIP + MLP,darken,1,1,1,False,,
+37711,ViLT,darken,1,1,1,False,,
+37711,BLIP Caption + BERT,darken,1,0,0,False,a light fixture on the ceiling of a house,a light fixture on the ceiling of a house
+37711,CLIP + MLP,crop,1,1,1,False,,
+37711,ViLT,crop,1,1,1,False,,
+37711,BLIP Caption + BERT,crop,1,0,0,False,a light fixture on the ceiling of a house,a light hanging from the ceiling
+104007,CLIP + MLP,blur,1,0,0,False,,
+104007,ViLT,blur,1,1,0,True,,
+104007,BLIP Caption + BERT,blur,1,0,0,False,a cat sitting on a chair with its mouth open,a black dog sitting in a mirror
+104007,CLIP + MLP,grayscale,1,0,0,False,,
+104007,ViLT,grayscale,1,1,1,False,,
+104007,BLIP Caption + BERT,grayscale,1,0,0,False,a cat sitting on a chair with its mouth open,a cat sitting on top of a desk
+104007,CLIP + MLP,darken,1,0,0,False,,
+104007,ViLT,darken,1,1,1,False,,
+104007,BLIP Caption + BERT,darken,1,0,0,False,a cat sitting on a chair with its mouth open,a black cat sitting on a desk with a monitor
+104007,CLIP + MLP,crop,1,0,0,False,,
+104007,ViLT,crop,1,1,1,False,,
+104007,BLIP Caption + BERT,crop,1,0,0,False,a cat sitting on a chair with its mouth open,a black cat sitting on a cat bed
+10270,CLIP + MLP,blur,1,0,0,False,,
+10270,ViLT,blur,1,0,0,False,,
+10270,BLIP Caption + BERT,blur,1,0,0,False,a pen and a notebook with a note pad,a pen and a notebook with a notepad on it
+10270,CLIP + MLP,grayscale,1,0,0,False,,
+10270,ViLT,grayscale,1,0,0,False,,
+10270,BLIP Caption + BERT,grayscale,1,0,1,True,a pen and a notebook with a note pad,a pen and a notebook with a pencil
+10270,CLIP + MLP,darken,1,0,0,False,,
+10270,ViLT,darken,1,0,0,False,,
+10270,BLIP Caption + BERT,darken,1,0,0,False,a pen and a notebook with a note pad,a pen and a notebook with a drawing of a bird
+10270,CLIP + MLP,crop,1,0,0,False,,
+10270,ViLT,crop,1,0,1,True,,
+10270,BLIP Caption + BERT,crop,1,0,0,False,a pen and a notebook with a note pad,a pen and a notebook with a drawing of a dragon
+31491,CLIP + MLP,blur,0,0,0,False,,
+31491,ViLT,blur,0,0,0,False,,
+31491,BLIP Caption + BERT,blur,0,0,0,False,a water slide,a water slide at the park
+31491,CLIP + MLP,grayscale,0,0,0,False,,
+31491,ViLT,grayscale,0,0,0,False,,
+31491,BLIP Caption + BERT,grayscale,0,0,0,False,a water slide,a man and a woman are walking on a bridge
+31491,CLIP + MLP,darken,0,0,0,False,,
+31491,ViLT,darken,0,0,0,False,,
+31491,BLIP Caption + BERT,darken,0,0,0,False,a water slide,a water slide at a park
+31491,CLIP + MLP,crop,0,0,0,False,,
+31491,ViLT,crop,0,0,0,False,,
+31491,BLIP Caption + BERT,crop,0,0,0,False,a water slide,a water slide is in the water
+58967,CLIP + MLP,blur,0,0,0,False,,
+58967,ViLT,blur,0,0,0,False,,
+58967,BLIP Caption + BERT,blur,0,0,0,False,a woman in a costume,a woman in a black outfit and a man in a brown shirt
+58967,CLIP + MLP,grayscale,0,0,0,False,,
+58967,ViLT,grayscale,0,0,0,False,,
+58967,BLIP Caption + BERT,grayscale,0,0,0,False,a woman in a costume,a man and woman are dancing together
+58967,CLIP + MLP,darken,0,0,0,False,,
+58967,ViLT,darken,0,0,0,False,,
+58967,BLIP Caption + BERT,darken,0,0,0,False,a woman in a costume,a woman in a black dress and a man in a brown shirt
+58967,CLIP + MLP,crop,0,0,0,False,,
+58967,ViLT,crop,0,0,0,False,,
+58967,BLIP Caption + BERT,crop,0,0,0,False,a woman in a costume,a woman in a black dress and a man in a brown shirt
+55961,CLIP + MLP,blur,1,0,0,False,,
+55961,ViLT,blur,1,1,1,False,,
+55961,BLIP Caption + BERT,blur,1,0,0,False,a man and two women posing for a photo,a man and woman standing in front of a wall
+55961,CLIP + MLP,grayscale,1,0,0,False,,
+55961,ViLT,grayscale,1,1,1,False,,
+55961,BLIP Caption + BERT,grayscale,1,0,0,False,a man and two women posing for a photo,a group of people posing for a picture
+55961,CLIP + MLP,darken,1,0,0,False,,
+55961,ViLT,darken,1,1,1,False,,
+55961,BLIP Caption + BERT,darken,1,0,0,False,a man and two women posing for a photo,a man and two women posing for a picture
+55961,CLIP + MLP,crop,1,0,0,False,,
+55961,ViLT,crop,1,1,1,False,,
+55961,BLIP Caption + BERT,crop,1,0,0,False,a man and two women posing for a photo,a man in a red shirt
+86306,CLIP + MLP,blur,0,0,0,False,,
+86306,ViLT,blur,0,0,0,False,,
+86306,BLIP Caption + BERT,blur,0,0,0,False,"a black and white text that reads, ' the things you are trying to get out of your own '",a black and white photo of a man with a beard
+86306,CLIP + MLP,grayscale,0,0,0,False,,
+86306,ViLT,grayscale,0,0,0,False,,
+86306,BLIP Caption + BERT,grayscale,0,0,0,False,"a black and white text that reads, ' the things you are trying to get out of your own '","a black and white photo with the words, ` ' the things you ' ret '"
+86306,CLIP + MLP,darken,0,0,0,False,,
+86306,ViLT,darken,0,0,0,False,,
+86306,BLIP Caption + BERT,darken,0,0,1,True,"a black and white text that reads, ' the things you are trying to get out of your own '","the text reads, the language is not a language"
+86306,CLIP + MLP,crop,0,0,0,False,,
+86306,ViLT,crop,0,0,0,False,,
+86306,BLIP Caption + BERT,crop,0,0,0,False,"a black and white text that reads, ' the things you are trying to get out of your own '","a black and white photo with the words, ` ` '"
+5476,CLIP + MLP,blur,1,1,1,False,,
+5476,ViLT,blur,1,1,1,False,,
+5476,BLIP Caption + BERT,blur,1,0,0,False,a person is holding their hand out to the camera,a person is holding their hand up to the camera
+5476,CLIP + MLP,grayscale,1,1,1,False,,
+5476,ViLT,grayscale,1,1,0,True,,
+5476,BLIP Caption + BERT,grayscale,1,0,0,False,a person is holding their hand out to the camera,a person is reaching their hand out to the camera
+5476,CLIP + MLP,darken,1,1,1,False,,
+5476,ViLT,darken,1,1,1,False,,
+5476,BLIP Caption + BERT,darken,1,0,0,False,a person is holding their hand out to the camera,a person is reaching their hand out to touch a white chair
+5476,CLIP + MLP,crop,1,1,1,False,,
+5476,ViLT,crop,1,1,1,False,,
+5476,BLIP Caption + BERT,crop,1,0,0,False,a person is holding their hand out to the camera,a person ' s hand is shown in the middle of the image
+46373,CLIP + MLP,blur,0,0,0,False,,
+46373,ViLT,blur,0,0,0,False,,
+46373,BLIP Caption + BERT,blur,0,1,1,False,a group of people standing around a table,a group of people standing around a table
+46373,CLIP + MLP,grayscale,0,0,0,False,,
+46373,ViLT,grayscale,0,0,0,False,,
+46373,BLIP Caption + BERT,grayscale,0,1,1,False,a group of people standing around a table,a group of people standing around a table
+46373,CLIP + MLP,darken,0,0,0,False,,
+46373,ViLT,darken,0,0,0,False,,
+46373,BLIP Caption + BERT,darken,0,1,1,False,a group of people standing around a table,a group of people standing around a table
+46373,CLIP + MLP,crop,0,0,0,False,,
+46373,ViLT,crop,0,0,0,False,,
+46373,BLIP Caption + BERT,crop,0,1,1,False,a group of people standing around a table,a group of people sitting on a bench
+38136,CLIP + MLP,blur,0,0,0,False,,
+38136,ViLT,blur,0,0,0,False,,
+38136,BLIP Caption + BERT,blur,0,0,0,False,a little girl in a white shirt and pink shorts,a little girl in a white shirt and pink shorts
+38136,CLIP + MLP,grayscale,0,0,0,False,,
+38136,ViLT,grayscale,0,0,0,False,,
+38136,BLIP Caption + BERT,grayscale,0,0,0,False,a little girl in a white shirt and pink shorts,a little girl in a field with her hand on the ground
+38136,CLIP + MLP,darken,0,0,0,False,,
+38136,ViLT,darken,0,0,0,False,,
+38136,BLIP Caption + BERT,darken,0,0,0,False,a little girl in a white shirt and pink shorts,a little girl in a white shirt and pink shorts is standing in the grass
+38136,CLIP + MLP,crop,0,0,0,False,,
+38136,ViLT,crop,0,0,1,True,,
+38136,BLIP Caption + BERT,crop,0,0,0,False,a little girl in a white shirt and pink shorts,a little girl holding a kite
+51743,CLIP + MLP,blur,0,0,0,False,,
+51743,ViLT,blur,0,0,0,False,,
+51743,BLIP Caption + BERT,blur,0,0,0,False,a man in a gas mask riding a horse,a soldier in a dark city
+51743,CLIP + MLP,grayscale,0,0,0,False,,
+51743,ViLT,grayscale,0,0,0,False,,
+51743,BLIP Caption + BERT,grayscale,0,0,0,False,a man in a gas mask riding a horse,a soldier in a ruined building with a gun
+51743,CLIP + MLP,darken,0,0,0,False,,
+51743,ViLT,darken,0,0,0,False,,
+51743,BLIP Caption + BERT,darken,0,0,0,False,a man in a gas mask riding a horse,a soldier in a dark city at night
+51743,CLIP + MLP,crop,0,0,0,False,,
+51743,ViLT,crop,0,0,0,False,,
+51743,BLIP Caption + BERT,crop,0,0,0,False,a man in a gas mask riding a horse,a soldier in a gas mask walks through a ruined building
+82587,CLIP + MLP,blur,0,1,1,False,,
+82587,ViLT,blur,0,1,1,False,,
+82587,BLIP Caption + BERT,blur,0,0,0,False,a hand holding a small blue object,a hand holding a small blue pill pill
+82587,CLIP + MLP,grayscale,0,1,1,False,,
+82587,ViLT,grayscale,0,1,1,False,,
+82587,BLIP Caption + BERT,grayscale,0,0,0,False,a hand holding a small blue object,a small black ball in the palm of a person
+82587,CLIP + MLP,darken,0,1,1,False,,
+82587,ViLT,darken,0,1,1,False,,
+82587,BLIP Caption + BERT,darken,0,0,0,False,a hand holding a small blue object,a hand holding a small blue object
+82587,CLIP + MLP,crop,0,1,1,False,,
+82587,ViLT,crop,0,1,1,False,,
+82587,BLIP Caption + BERT,crop,0,0,0,False,a hand holding a small blue object,a hand holding a small blue object
+25801,CLIP + MLP,blur,1,0,0,False,,
+25801,ViLT,blur,1,1,1,False,,
+25801,BLIP Caption + BERT,blur,1,0,0,False,a red box with a water heater inside,a red machine with a white container on it
+25801,CLIP + MLP,grayscale,1,0,0,False,,
+25801,ViLT,grayscale,1,1,0,True,,
+25801,BLIP Caption + BERT,grayscale,1,0,0,False,a red box with a water heater inside,a black and white photo of a room with a bunch of wires
+25801,CLIP + MLP,darken,1,0,0,False,,
+25801,ViLT,darken,1,1,1,False,,
+25801,BLIP Caption + BERT,darken,1,0,0,False,a red box with a water heater inside,a red box with a white tank inside
+25801,CLIP + MLP,crop,1,0,0,False,,
+25801,ViLT,crop,1,1,1,False,,
+25801,BLIP Caption + BERT,crop,1,0,0,False,a red box with a water heater inside,a red box with a metal cage inside
+76652,CLIP + MLP,blur,1,0,0,False,,
+76652,ViLT,blur,1,0,0,False,,
+76652,BLIP Caption + BERT,blur,1,1,1,False,a person holding a small kitten in their hands,a person holding a small kitten in their hands
+76652,CLIP + MLP,grayscale,1,0,0,False,,
+76652,ViLT,grayscale,1,0,0,False,,
+76652,BLIP Caption + BERT,grayscale,1,1,1,False,a person holding a small kitten in their hands,a person holding a small kitten in their hands
+76652,CLIP + MLP,darken,1,0,0,False,,
+76652,ViLT,darken,1,0,0,False,,
+76652,BLIP Caption + BERT,darken,1,1,1,False,a person holding a small kitten in their hands,a person holding a small kitten in their hands
+76652,CLIP + MLP,crop,1,0,0,False,,
+76652,ViLT,crop,1,0,0,False,,
+76652,BLIP Caption + BERT,crop,1,1,1,False,a person holding a small kitten in their hands,a person holding a small kitten in their hands
+7242,CLIP + MLP,blur,1,0,0,False,,
+7242,ViLT,blur,1,0,0,False,,
+7242,BLIP Caption + BERT,blur,1,0,0,False,a man in a green coat holding a shield,a man in a green uniform holding a shield
+7242,CLIP + MLP,grayscale,1,0,0,False,,
+7242,ViLT,grayscale,1,0,1,True,,
+7242,BLIP Caption + BERT,grayscale,1,0,0,False,a man in a green coat holding a shield,a man in a black and white photo holding a sign
+7242,CLIP + MLP,darken,1,0,0,False,,
+7242,ViLT,darken,1,0,0,False,,
+7242,BLIP Caption + BERT,darken,1,0,0,False,a man in a green coat holding a shield,a man in a green shirt and white pants is holding a shield
+7242,CLIP + MLP,crop,1,0,0,False,,
+7242,ViLT,crop,1,0,1,True,,
+7242,BLIP Caption + BERT,crop,1,0,0,False,a man in a green coat holding a shield,a man in a green coat and white pants holding a shield
+46152,CLIP + MLP,blur,0,0,0,False,,
+46152,ViLT,blur,0,0,0,False,,
+46152,BLIP Caption + BERT,blur,0,0,0,False,a large rock formation,a blurry image of rocks in the desert
+46152,CLIP + MLP,grayscale,0,0,0,False,,
+46152,ViLT,grayscale,0,0,0,False,,
+46152,BLIP Caption + BERT,grayscale,0,0,0,False,a large rock formation,a black and white photo of rocks in the desert
+46152,CLIP + MLP,darken,0,0,0,False,,
+46152,ViLT,darken,0,0,0,False,,
+46152,BLIP Caption + BERT,darken,0,0,0,False,a large rock formation,a large rock formation
+46152,CLIP + MLP,crop,0,0,0,False,,
+46152,ViLT,crop,0,0,0,False,,
+46152,BLIP Caption + BERT,crop,0,0,0,False,a large rock formation,a large rock formation
+19644,CLIP + MLP,blur,1,0,0,False,,
+19644,ViLT,blur,1,1,1,False,,
+19644,BLIP Caption + BERT,blur,1,0,0,False,a woman in a room with lightsabes,a person standing in a room with lights
+19644,CLIP + MLP,grayscale,1,0,0,False,,
+19644,ViLT,grayscale,1,1,1,False,,
+19644,BLIP Caption + BERT,grayscale,1,0,0,False,a woman in a room with lightsabes,a woman in a room with a mirror
+19644,CLIP + MLP,darken,1,0,0,False,,
+19644,ViLT,darken,1,1,1,False,,
+19644,BLIP Caption + BERT,darken,1,0,0,False,a woman in a room with lightsabes,a person in a room with lights
+19644,CLIP + MLP,crop,1,0,0,False,,
+19644,ViLT,crop,1,1,1,False,,
+19644,BLIP Caption + BERT,crop,1,0,0,False,a woman in a room with lightsabes,a man in a jedi costume holding a lightsabe
+67941,CLIP + MLP,blur,1,0,0,False,,
+67941,ViLT,blur,1,0,0,False,,
+67941,BLIP Caption + BERT,blur,1,0,1,True,a man in a yellow shirt standing on a stage,a man in a yellow shirt is playing tennis
+67941,CLIP + MLP,grayscale,1,0,0,False,,
+67941,ViLT,grayscale,1,0,0,False,,
+67941,BLIP Caption + BERT,grayscale,1,0,1,True,a man in a yellow shirt standing on a stage,a man standing on a stage with a microphone
+67941,CLIP + MLP,darken,1,0,0,False,,
+67941,ViLT,darken,1,0,0,False,,
+67941,BLIP Caption + BERT,darken,1,0,0,False,a man in a yellow shirt standing on a stage,a man in a yellow shirt is standing on a stage
+67941,CLIP + MLP,crop,1,0,0,False,,
+67941,ViLT,crop,1,0,0,False,,
+67941,BLIP Caption + BERT,crop,1,0,0,False,a man in a yellow shirt standing on a stage,a man standing on a stage with a soccer ball
+73137,CLIP + MLP,blur,0,0,0,False,,
+73137,ViLT,blur,0,1,0,True,,
+73137,BLIP Caption + BERT,blur,0,0,1,True,surfboards hanging on a wall,a wall of colorful threads
+73137,CLIP + MLP,grayscale,0,0,0,False,,
+73137,ViLT,grayscale,0,1,0,True,,
+73137,BLIP Caption + BERT,grayscale,0,0,0,False,surfboards hanging on a wall,a black and white photo of a wall with surfboards
+73137,CLIP + MLP,darken,0,0,0,False,,
+73137,ViLT,darken,0,1,1,False,,
+73137,BLIP Caption + BERT,darken,0,0,0,False,surfboards hanging on a wall,a wall full of surfboards
+73137,CLIP + MLP,crop,0,0,0,False,,
+73137,ViLT,crop,0,1,1,False,,
+73137,BLIP Caption + BERT,crop,0,0,0,False,surfboards hanging on a wall,surfboards hanging on a wall
+97684,CLIP + MLP,blur,0,0,0,False,,
+97684,ViLT,blur,0,0,0,False,,
+97684,BLIP Caption + BERT,blur,0,0,0,False,a cardboard box sitting on top of a shopping cart,a cardboard box with a cardboard inside
+97684,CLIP + MLP,grayscale,0,0,0,False,,
+97684,ViLT,grayscale,0,0,0,False,,
+97684,BLIP Caption + BERT,grayscale,0,0,0,False,a cardboard box sitting on top of a shopping cart,a cardboard box with a face on it
+97684,CLIP + MLP,darken,0,0,0,False,,
+97684,ViLT,darken,0,0,0,False,,
+97684,BLIP Caption + BERT,darken,0,0,0,False,a cardboard box sitting on top of a shopping cart,a cardboard box with a face on it
+97684,CLIP + MLP,crop,0,0,0,False,,
+97684,ViLT,crop,0,0,0,False,,
+97684,BLIP Caption + BERT,crop,0,0,0,False,a cardboard box sitting on top of a shopping cart,a cardboard box with a face on it
+41284,CLIP + MLP,blur,1,0,0,False,,
+41284,ViLT,blur,1,0,0,False,,
+41284,BLIP Caption + BERT,blur,1,1,1,False,a soccer player,portugal ' s crazno celebrates his goal
+41284,CLIP + MLP,grayscale,1,0,0,False,,
+41284,ViLT,grayscale,1,0,0,False,,
+41284,BLIP Caption + BERT,grayscale,1,1,0,True,a soccer player,a man in a striped shirt is running with a soccer ball
+41284,CLIP + MLP,darken,1,0,0,False,,
+41284,ViLT,darken,1,0,0,False,,
+41284,BLIP Caption + BERT,darken,1,1,1,False,a soccer player,a soccer player
+41284,CLIP + MLP,crop,1,0,0,False,,
+41284,ViLT,crop,1,0,0,False,,
+41284,BLIP Caption + BERT,crop,1,1,1,False,a soccer player,a soccer player with his mouth open
+7796,CLIP + MLP,blur,1,1,1,False,,
+7796,ViLT,blur,1,1,1,False,,
+7796,BLIP Caption + BERT,blur,1,0,0,False,a bucket full of paper and other things,a metal container filled with money and a small coin
+7796,CLIP + MLP,grayscale,1,1,1,False,,
+7796,ViLT,grayscale,1,1,0,True,,
+7796,BLIP Caption + BERT,grayscale,1,0,0,False,a bucket full of paper and other things,a metal bowl filled with lots of papers
+7796,CLIP + MLP,darken,1,1,1,False,,
+7796,ViLT,darken,1,1,1,False,,
+7796,BLIP Caption + BERT,darken,1,0,0,False,a bucket full of paper and other things,a bucket full of paper and other things
+7796,CLIP + MLP,crop,1,1,1,False,,
+7796,ViLT,crop,1,1,1,False,,
+7796,BLIP Caption + BERT,crop,1,0,0,False,a bucket full of paper and other things,a bucket full of paper and a small metal container filled with notes
+97864,CLIP + MLP,blur,1,0,0,False,,
+97864,ViLT,blur,1,0,0,False,,
+97864,BLIP Caption + BERT,blur,1,0,0,False,a green light shining on the side of a car,a green light shining on a black surface
+97864,CLIP + MLP,grayscale,1,0,0,False,,
+97864,ViLT,grayscale,1,0,0,False,,
+97864,BLIP Caption + BERT,grayscale,1,0,0,False,a green light shining on the side of a car,a black and white photo of a car
+97864,CLIP + MLP,darken,1,0,0,False,,
+97864,ViLT,darken,1,0,0,False,,
+97864,BLIP Caption + BERT,darken,1,0,0,False,a green light shining on the side of a car,a green light on a black background
+97864,CLIP + MLP,crop,1,0,0,False,,
+97864,ViLT,crop,1,0,0,False,,
+97864,BLIP Caption + BERT,crop,1,0,0,False,a green light shining on the side of a car,a green light on the side of a car
+107439,CLIP + MLP,blur,1,0,0,False,,
+107439,ViLT,blur,1,0,0,False,,
+107439,BLIP Caption + BERT,blur,1,0,0,False,alyssa adams in a red dress,a woman in a red dress standing on a red carpet
+107439,CLIP + MLP,grayscale,1,0,0,False,,
+107439,ViLT,grayscale,1,0,0,False,,
+107439,BLIP Caption + BERT,grayscale,1,0,1,True,alyssa adams in a red dress,person at the ins awards
+107439,CLIP + MLP,darken,1,0,0,False,,
+107439,ViLT,darken,1,0,0,False,,
+107439,BLIP Caption + BERT,darken,1,0,0,False,alyssa adams in a red dress,a woman in a red dress standing on a red carpet
+107439,CLIP + MLP,crop,1,0,0,False,,
+107439,ViLT,crop,1,0,0,False,,
+107439,BLIP Caption + BERT,crop,1,0,1,True,alyssa adams in a red dress,sofia cur at the emmy awards
+38153,CLIP + MLP,blur,0,0,0,False,,
+38153,ViLT,blur,0,0,0,False,,
+38153,BLIP Caption + BERT,blur,0,0,0,False,a man in a gas mask is seen in front of a dump truck,a soldier is seen in this image
+38153,CLIP + MLP,grayscale,0,0,0,False,,
+38153,ViLT,grayscale,0,0,0,False,,
+38153,BLIP Caption + BERT,grayscale,0,0,0,False,a man in a gas mask is seen in front of a dump truck,a man in a gas mask is walking down the street
+38153,CLIP + MLP,darken,0,0,0,False,,
+38153,ViLT,darken,0,0,0,False,,
+38153,BLIP Caption + BERT,darken,0,0,0,False,a man in a gas mask is seen in front of a dump truck,a soldier is seen in front of a truck
+38153,CLIP + MLP,crop,0,0,0,False,,
+38153,ViLT,crop,0,0,0,False,,
+38153,BLIP Caption + BERT,crop,0,0,0,False,a man in a gas mask is seen in front of a dump truck,a man in a suit and helmet is standing next to a wall
+303,CLIP + MLP,blur,1,1,1,False,,
+303,ViLT,blur,1,1,1,False,,
+303,BLIP Caption + BERT,blur,1,0,0,False,a leaf is in the air,a blur of trees
+303,CLIP + MLP,grayscale,1,1,1,False,,
+303,ViLT,grayscale,1,1,1,False,,
+303,BLIP Caption + BERT,grayscale,1,0,0,False,a leaf is in the air,a black and white photo of the sun shining through trees
+303,CLIP + MLP,darken,1,1,1,False,,
+303,ViLT,darken,1,1,1,False,,
+303,BLIP Caption + BERT,darken,1,0,0,False,a leaf is in the air,a leaf is in the air
+303,CLIP + MLP,crop,1,1,1,False,,
+303,ViLT,crop,1,1,1,False,,
+303,BLIP Caption + BERT,crop,1,0,0,False,a leaf is in the air,a leaf floating in the air
+77284,CLIP + MLP,blur,0,0,0,False,,
+77284,ViLT,blur,0,0,0,False,,
+77284,BLIP Caption + BERT,blur,0,0,0,False,a bag with a zipper on it,a small orange bag with a small white bag
+77284,CLIP + MLP,grayscale,0,0,0,False,,
+77284,ViLT,grayscale,0,0,0,False,,
+77284,BLIP Caption + BERT,grayscale,0,0,0,False,a bag with a zipper on it,the new fashion women ' s backpack bag
+77284,CLIP + MLP,darken,0,0,0,False,,
+77284,ViLT,darken,0,0,0,False,,
+77284,BLIP Caption + BERT,darken,0,0,0,False,a bag with a zipper on it,a brown bag with a small purse on it
+77284,CLIP + MLP,crop,0,0,0,False,,
+77284,ViLT,crop,0,0,0,False,,
+77284,BLIP Caption + BERT,crop,0,0,0,False,a bag with a zipper on it,a brown purse with a handle and a handle
+85237,CLIP + MLP,blur,0,0,0,False,,
+85237,ViLT,blur,0,0,0,False,,
+85237,BLIP Caption + BERT,blur,0,0,0,False,a white purse with a gold button on it,a small button with a face on it
+85237,CLIP + MLP,grayscale,0,0,0,False,,
+85237,ViLT,grayscale,0,0,0,False,,
+85237,BLIP Caption + BERT,grayscale,0,0,0,False,a white purse with a gold button on it,a white purse with a button on it
+85237,CLIP + MLP,darken,0,0,0,False,,
+85237,ViLT,darken,0,0,0,False,,
+85237,BLIP Caption + BERT,darken,0,0,0,False,a white purse with a gold button on it,a white purse with a brown handle
+85237,CLIP + MLP,crop,0,0,0,False,,
+85237,ViLT,crop,0,0,0,False,,
+85237,BLIP Caption + BERT,crop,0,0,0,False,a white purse with a gold button on it,a small button with a face on it
+72658,CLIP + MLP,blur,1,0,0,False,,
+72658,ViLT,blur,1,0,0,False,,
+72658,BLIP Caption + BERT,blur,1,0,0,False,a screenshot of a robot on a moon,a man and woman are dancing on a stage
+72658,CLIP + MLP,grayscale,1,0,0,False,,
+72658,ViLT,grayscale,1,0,0,False,,
+72658,BLIP Caption + BERT,grayscale,1,0,0,False,a screenshot of a robot on a moon,a black and white photo of a satellite satellite
+72658,CLIP + MLP,darken,1,0,0,False,,
+72658,ViLT,darken,1,0,0,False,,
+72658,BLIP Caption + BERT,darken,1,0,0,False,a screenshot of a robot on a moon,a man standing on a snow covered ground
+72658,CLIP + MLP,crop,1,0,0,False,,
+72658,ViLT,crop,1,0,0,False,,
+72658,BLIP Caption + BERT,crop,1,0,0,False,a screenshot of a robot on a moon,"the game ' s screens are all different, but they are different"
+60201,CLIP + MLP,blur,1,1,1,False,,
+60201,ViLT,blur,1,1,1,False,,
+60201,BLIP Caption + BERT,blur,1,0,0,False,a man ' s hand with a ring on it,a man ' s hands holding a small white diamond
+60201,CLIP + MLP,grayscale,1,1,1,False,,
+60201,ViLT,grayscale,1,1,1,False,,
+60201,BLIP Caption + BERT,grayscale,1,0,0,False,a man ' s hand with a ring on it,a man ' s hand with a small tattoo on it
+60201,CLIP + MLP,darken,1,1,1,False,,
+60201,ViLT,darken,1,1,1,False,,
+60201,BLIP Caption + BERT,darken,1,0,0,False,a man ' s hand with a ring on it,a man ' s hands clasped over a laptop
+60201,CLIP + MLP,crop,1,1,1,False,,
+60201,ViLT,crop,1,1,1,False,,
+60201,BLIP Caption + BERT,crop,1,0,0,False,a man ' s hand with a ring on it,a man ' s hand with a ring on it
+42569,CLIP + MLP,blur,0,0,0,False,,
+42569,ViLT,blur,0,0,0,False,,
+42569,BLIP Caption + BERT,blur,0,0,0,False,a man is standing in front of a building,a cartoon character is standing in a field
+42569,CLIP + MLP,grayscale,0,0,0,False,,
+42569,ViLT,grayscale,0,0,0,False,,
+42569,BLIP Caption + BERT,grayscale,0,0,0,False,a man is standing in front of a building,the vic album cover art
+42569,CLIP + MLP,darken,0,0,0,False,,
+42569,ViLT,darken,0,0,0,False,,
+42569,BLIP Caption + BERT,darken,0,0,1,True,a man is standing in front of a building,a screenshot of a man in a field
+42569,CLIP + MLP,crop,0,0,0,False,,
+42569,ViLT,crop,0,0,0,False,,
+42569,BLIP Caption + BERT,crop,0,0,0,False,a man is standing in front of a building,a cartoon character is standing in front of a building
+70091,CLIP + MLP,blur,1,1,1,False,,
+70091,ViLT,blur,1,0,0,False,,
+70091,BLIP Caption + BERT,blur,1,1,0,True,a person holding a toy in their hand,a person holding a paper toy in their hand
+70091,CLIP + MLP,grayscale,1,1,1,False,,
+70091,ViLT,grayscale,1,0,0,False,,
+70091,BLIP Caption + BERT,grayscale,1,1,0,True,a person holding a toy in their hand,someone making a paper doll
+70091,CLIP + MLP,darken,1,1,1,False,,
+70091,ViLT,darken,1,0,0,False,,
+70091,BLIP Caption + BERT,darken,1,1,0,True,a person holding a toy in their hand,a person is holding a toy in their hand
+70091,CLIP + MLP,crop,1,1,1,False,,
+70091,ViLT,crop,1,0,1,True,,
+70091,BLIP Caption + BERT,crop,1,1,0,True,a person holding a toy in their hand,a person holding a bag of candy
+8449,CLIP + MLP,blur,0,0,0,False,,
+8449,ViLT,blur,0,0,0,False,,
+8449,BLIP Caption + BERT,blur,0,0,0,False,a person holding a piece of paper with a swing,a person holding a miniature doll on a table
+8449,CLIP + MLP,grayscale,0,0,0,False,,
+8449,ViLT,grayscale,0,0,0,False,,
+8449,BLIP Caption + BERT,grayscale,0,0,0,False,a person holding a piece of paper with a swing,a person holding a small object in their hand
+8449,CLIP + MLP,darken,0,0,0,False,,
+8449,ViLT,darken,0,0,0,False,,
+8449,BLIP Caption + BERT,darken,0,0,0,False,a person holding a piece of paper with a swing,a person holding a piece of paper with a picture of a woman on it
+8449,CLIP + MLP,crop,0,0,0,False,,
+8449,ViLT,crop,0,0,0,False,,
+8449,BLIP Caption + BERT,crop,0,0,0,False,a person holding a piece of paper with a swing,a person is holding a piece of paper with a swing
+75532,CLIP + MLP,blur,1,0,0,False,,
+75532,ViLT,blur,1,1,1,False,,
+75532,BLIP Caption + BERT,blur,1,0,0,False,a group of cyclists riding down a street,a group of people running down a street
+75532,CLIP + MLP,grayscale,1,0,0,False,,
+75532,ViLT,grayscale,1,1,1,False,,
+75532,BLIP Caption + BERT,grayscale,1,0,0,False,a group of cyclists riding down a street,a group of cyclists riding down a street
+75532,CLIP + MLP,darken,1,0,0,False,,
+75532,ViLT,darken,1,1,1,False,,
+75532,BLIP Caption + BERT,darken,1,0,0,False,a group of cyclists riding down a street,a group of cyclists riding down a street
+75532,CLIP + MLP,crop,1,0,0,False,,
+75532,ViLT,crop,1,1,1,False,,
+75532,BLIP Caption + BERT,crop,1,0,0,False,a group of cyclists riding down a street,a group of cyclists riding down a street
+91603,CLIP + MLP,blur,0,0,0,False,,
+91603,ViLT,blur,0,0,0,False,,
+91603,BLIP Caption + BERT,blur,0,0,0,False,a referee is giving a young boy a high five,a referee is giving a little boy a high five
+91603,CLIP + MLP,grayscale,0,0,0,False,,
+91603,ViLT,grayscale,0,0,0,False,,
+91603,BLIP Caption + BERT,grayscale,0,0,1,True,a referee is giving a young boy a high five,a referee and a young boy
+91603,CLIP + MLP,darken,0,0,0,False,,
+91603,ViLT,darken,0,0,0,False,,
+91603,BLIP Caption + BERT,darken,0,0,1,True,a referee is giving a young boy a high five,a referee and a young boy in a wrestling match
+91603,CLIP + MLP,crop,0,0,0,False,,
+91603,ViLT,crop,0,0,0,False,,
+91603,BLIP Caption + BERT,crop,0,0,1,True,a referee is giving a young boy a high five,a referee is holding a red ball in his hand
+28604,CLIP + MLP,blur,0,1,1,False,,
+28604,ViLT,blur,0,0,0,False,,
+28604,BLIP Caption + BERT,blur,0,0,0,False,a piece of paper with a leaf drawn on it,a white flower on a white background
+28604,CLIP + MLP,grayscale,0,1,1,False,,
+28604,ViLT,grayscale,0,0,0,False,,
+28604,BLIP Caption + BERT,grayscale,0,0,0,False,a piece of paper with a leaf drawn on it,a piece of paper with a white flower on it
+28604,CLIP + MLP,darken,0,1,1,False,,
+28604,ViLT,darken,0,0,0,False,,
+28604,BLIP Caption + BERT,darken,0,0,0,False,a piece of paper with a leaf drawn on it,a leaf on a wall
+28604,CLIP + MLP,crop,0,1,1,False,,
+28604,ViLT,crop,0,0,0,False,,
+28604,BLIP Caption + BERT,crop,0,0,0,False,a piece of paper with a leaf drawn on it,a leaf on a wall
+92227,CLIP + MLP,blur,1,0,0,False,,
+92227,ViLT,blur,1,0,0,False,,
+92227,BLIP Caption + BERT,blur,1,0,0,False,the church in the park,a large white building
+92227,CLIP + MLP,grayscale,1,0,0,False,,
+92227,ViLT,grayscale,1,0,0,False,,
+92227,BLIP Caption + BERT,grayscale,1,0,0,False,the church in the park,a black and white photo of a church
+92227,CLIP + MLP,darken,1,0,0,False,,
+92227,ViLT,darken,1,0,0,False,,
+92227,BLIP Caption + BERT,darken,1,0,1,True,the church in the park,a large tree
+92227,CLIP + MLP,crop,1,0,0,False,,
+92227,ViLT,crop,1,0,0,False,,
+92227,BLIP Caption + BERT,crop,1,0,0,False,the church in the park,a large tree in front of a building
+35558,CLIP + MLP,blur,1,0,0,False,,
+35558,ViLT,blur,1,0,0,False,,
+35558,BLIP Caption + BERT,blur,1,0,0,False,"a cemetery with a sign that says, ' cemetery on the hill '",a cemetery with a tree and graves
+35558,CLIP + MLP,grayscale,1,0,0,False,,
+35558,ViLT,grayscale,1,0,0,False,,
+35558,BLIP Caption + BERT,grayscale,1,0,0,False,"a cemetery with a sign that says, ' cemetery on the hill '",a cemetery with tombstones and trees
+35558,CLIP + MLP,darken,1,0,0,False,,
+35558,ViLT,darken,1,0,0,False,,
+35558,BLIP Caption + BERT,darken,1,0,0,False,"a cemetery with a sign that says, ' cemetery on the hill '","a cemetery with a sign that says, ' don '"
+35558,CLIP + MLP,crop,1,0,0,False,,
+35558,ViLT,crop,1,0,0,False,,
+35558,BLIP Caption + BERT,crop,1,0,0,False,"a cemetery with a sign that says, ' cemetery on the hill '",a cemetery with tombstones and trees in the background

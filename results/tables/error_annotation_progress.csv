@@ -1,0 +1,9 @@
+Model,Error direction,Selected errors,Mean confidence,High-confidence errors (>=0.90),Manually annotated
+BERT,Fake predicted as Real,13,0.8050077511714056,3,0
+BERT,Real predicted as Fake,12,0.7816554456949234,3,0
+BLIP Caption + BERT,Fake predicted as Real,13,0.5370928049087524,0,0
+BLIP Caption + BERT,Real predicted as Fake,12,0.5169545809427897,0,0
+CLIP + MLP,Fake predicted as Real,13,0.6839915009645315,0,0
+CLIP + MLP,Real predicted as Fake,12,0.5595481644074122,0,0
+ViLT,Fake predicted as Real,13,0.9485706228476304,11,0
+ViLT,Real predicted as Fake,12,0.8914443304141363,7,0

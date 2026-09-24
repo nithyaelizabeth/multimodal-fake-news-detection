@@ -1,0 +1,6 @@
+{
+  "requested_samples": 500,
+  "successful_samples": 480,
+  "failed_samples": 20,
+  "coverage_percent": 96.0
+}

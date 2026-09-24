@@ -1,0 +1,11 @@
+{
+  "train_samples": 1892,
+  "validation_samples": 479,
+  "test_samples": 481,
+  "seeds": [
+    42,
+    43,
+    44
+  ],
+  "modality_dropout_probability": 0.3
+}

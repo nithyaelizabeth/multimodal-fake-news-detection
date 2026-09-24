@@ -1,0 +1,11 @@
+{
+  "requested_samples": 200,
+  "prediction_rows": 2116,
+  "failure_rows": 36,
+  "paired_samples_by_model": {
+    "CLIP + MLP": 188,
+    "ViLT": 188,
+    "BLIP Caption + BERT": 188
+  },
+  "seed": 42
+}

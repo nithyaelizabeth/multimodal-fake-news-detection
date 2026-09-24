@@ -1,0 +1,49 @@
+{
+  "model_name": "bert-base-uncased",
+  "seed": 42,
+  "device": "mps",
+  "class_weighted_loss": true,
+  "train_samples": 20000,
+  "validation_samples": 5000,
+  "test_samples": 5000,
+  "hyperparameters": {
+    "epochs_requested": 3,
+    "batch_size": 16,
+    "learning_rate": 2e-05,
+    "weight_decay": 0.01,
+    "max_length": 128,
+    "patience": 2
+  },
+  "history": [
+    {
+      "epoch": 1,
+      "train_loss": 0.42142362600266936,
+      "validation_loss": 0.372816037993652,
+      "validation_accuracy": 0.8432,
+      "validation_balanced_accuracy": 0.8437105539312726,
+      "validation_macro_f1": 0.8396885377304477
+    },
+    {
+      "epoch": 2,
+      "train_loss": 0.27432822909876703,
+      "validation_loss": 0.41780845053232135,
+      "validation_accuracy": 0.8302,
+      "validation_balanced_accuracy": 0.8381496551100618,
+      "validation_macro_f1": 0.8282924736161982
+    },
+    {
+      "epoch": 3,
+      "train_loss": 0.16830875389799477,
+      "validation_loss": 0.6078542706827386,
+      "validation_accuracy": 0.8254,
+      "validation_balanced_accuracy": 0.8298664455386615,
+      "validation_macro_f1": 0.8227001559873061
+    }
+  ],
+  "test_metrics": {
+    "accuracy": 0.8378,
+    "balanced_accuracy": 0.8389534779766883,
+    "macro_f1": 0.8341976521815112
+  },
+  "predictions": "results/predictions/bert_test.csv"
+}

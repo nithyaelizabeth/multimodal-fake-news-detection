@@ -1,0 +1,7 @@
+row_id,error
+53387,HTTPError('404 Client Error: Not Found for url: https://preview.redd.it/vfxlw41ak3b31.jpg?width=320&crop=smart&auto=webp&s=5bf67cd7fcf9fbc808f6ab313f08d69aa0653c51')
+63943,HTTPError('404 Client Error: Not Found for url: https://preview.redd.it/4323qkuu0u111.jpg?width=320&crop=smart&auto=webp&s=2cf04038d7261ac260b2c75e264040589bd27ae4')
+83766,HTTPError('404 Client Error: Not Found for url: https://preview.redd.it/n2owoz7otjs21.gif?width=216&crop=smart&format=png8&s=14f93d35468425201994cbc8a89ea39010a1691b')
+26633,HTTPError('404 Client Error: Not Found for url: https://preview.redd.it/t0xefu0y4hj31.jpg?width=320&crop=smart&auto=webp&s=6d13fe26028dd6e88754f4204c664b3eba8dd730')
+52357,HTTPError('404 Client Error: Not Found for url: https://preview.redd.it/cff5u0wginq21.jpg?width=320&crop=smart&auto=webp&s=1c4dc86bc3f0d558bef84237d74fedbf55bd3720')
+2758,HTTPError('404 Client Error: Not Found for url: https://i.redd.it/oykb5xy867fz.jpg')
